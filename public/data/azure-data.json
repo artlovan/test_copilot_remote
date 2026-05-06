@@ -1,15 +1,7 @@
 {
-  "fetchedAt": "2026-05-06T01:46:31.546Z",
+  "fetchedAt": "2026-05-06T08:04:35.154Z",
   "statusFeed": [],
   "blogUpdates": [
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=50657",
-      "title": "Azure IaaS: Defense in depth built on secure-by-design principles",
-      "summary": "Security for cloud infrastructure is no longer defined by a single control, product, or boundary. Modern threats target identity, software supply chains, control planes, networks, and data simultaneously. The post Azure IaaS: Defense in depth built on secure-by-design principles appeared first on Mi",
-      "publishedAt": "Mon, 04 May 2026 16:00:00 +0000",
-      "category": "Compute",
-      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/"
-    },
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=50750",
       "title": "Enforcing trust and transparency: Open-sourcing the Azure Integrated HSM",
@@ -81,6 +73,14 @@
       "publishedAt": "Thu, 09 Apr 2026 19:00:00 +0000",
       "category": "Hybrid + multicloud",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-forrester-wave-for-sovereign-cloud-platforms/"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=50303",
+      "title": "How Drasi used GitHub Copilot to find documentation bugs",
+      "summary": "How Microsoft uses AI agents and Drasi to keep open‑source documentation accurate and working. The post How Drasi used GitHub Copilot to find documentation bugs appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Thu, 09 Apr 2026 15:05:00 +0000",
+      "category": "DevOps",
+      "link": "https://opensource.microsoft.com/blog/2026/04/09/how-drasi-used-github-copilot-to-find-documentation-bugs/"
     }
   ],
   "incidentHistory": [
