@@ -1,7 +1,15 @@
 {
-  "fetchedAt": "2026-05-15T02:00:11.070Z",
+  "fetchedAt": "2026-05-15T08:37:02.190Z",
   "statusFeed": [],
   "blogUpdates": [
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=50970",
+      "title": "From commit to cloud: Powering what’s next for PostgreSQL",
+      "summary": "PostgreSQL has become foundational to how modern applications are built. It powers everything from early‑stage startups to some of the most demanding production systems in the world. Its longevity isn’t accidental, it’s the result of decades of engineering discipline, community collaboration, and a ",
+      "publishedAt": "Wed, 13 May 2026 16:00:00 +0000",
+      "category": "Databases",
+      "link": "https://azure.microsoft.com/en-us/blog/from-commit-to-cloud-powering-whats-next-for-postgresql/"
+    },
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=50918",
       "title": "Advancing enterprise AI: New SAP on Azure announcements from SAP Sapphire 2026",
@@ -11,7 +19,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/"
     },
     {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=50825",
+      "id": "https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/",
       "title": "Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift",
       "summary": "Microsoft and Red Hat show how Azure Red Hat OpenShift powers modernization and production AI with secure, scalable enterprise governance. The post Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift appeared first on Microsoft Azure Blog .",
       "publishedAt": "Mon, 11 May 2026 19:00:00 +0000",
@@ -73,14 +81,6 @@
       "publishedAt": "Thu, 23 Apr 2026 22:00:00 +0000",
       "category": "AI + machine learning",
       "link": "https://azure.microsoft.com/en-us/blog/openais-gpt-5-5-in-microsoft-foundry-frontier-intelligence-on-an-enterprise-ready-platform/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=50477",
-      "title": "Microsoft Discovery: Advancing agentic R&#038;D at scale",
-      "summary": "Expanded preview access for Microsoft Discovery brings new enterprise-grade, agentic AI capabilities for research and development teams. The post Microsoft Discovery: Advancing agentic R&amp;D at scale appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Wed, 22 Apr 2026 16:00:00 +0000",
-      "category": "AI + machine learning",
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-discovery-advancing-agentic-rd-at-scale/"
     }
   ],
   "incidentHistory": [
