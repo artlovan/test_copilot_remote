@@ -1,15 +1,6 @@
 {
-  "fetchedAt": "2026-05-18T19:22:19.393Z",
-  "statusFeed": [
-    {
-      "title": "Active - Microsoft Fabric / Power BI / Power BI Embedded - Degraded performance in multiple regions",
-      "description": "Impact Statement: Starting from 13:59 UTC on 18 May 2026, customers using Microsoft Fabric - including Power BI and PowerBI Embedded - may be experiencing delays or failures while interacting with the service. This issue is affecting multiple regions in the Azure public cloud. The Microsoft Fabric service status page is being updated at: https://support.fabric.microsoft.com/support/. Current Status: We identified that an unexpected increase in request traffic is causing a portion of the infrastructure to operate below optimal levels. Our on-call engineering teams have identified what we believe to be the relevant contributing factors, and have started to apply mitigations. We are initially applying these in a single region to help validate their effectiveness, before applying them more broadly. We are not able to provide a revised estimate of when this issue will be resolved - but the next update will be provided by 19:30 UTC (in approximately 60 minutes) or sooner if we have more to share.",
-      "link": "https://azurestatusprodcus.azurewebsites.net/en-us/status/",
-      "pubDate": "Mon, 18 May 2026 18:33:10 Z",
-      "guid": "active-microsoft-fabric-power-bi-power-bi-embedded-degraded-performance-in-multiple-regions",
-      "categories": []
-    }
-  ],
+  "fetchedAt": "2026-05-19T02:06:51.706Z",
+  "statusFeed": [],
   "blogUpdates": [
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=50970",
@@ -28,7 +19,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/"
     },
     {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=50825",
+      "id": "https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/",
       "title": "Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift",
       "summary": "Microsoft and Red Hat show how Azure Red Hat OpenShift powers modernization and production AI with secure, scalable enterprise governance. The post Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift appeared first on Microsoft Azure Blog .",
       "publishedAt": "Mon, 11 May 2026 19:00:00 +0000",
