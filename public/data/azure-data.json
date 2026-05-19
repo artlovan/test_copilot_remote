@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-19T02:06:51.706Z",
+  "fetchedAt": "2026-05-19T08:56:11.914Z",
   "statusFeed": [],
   "blogUpdates": [
     {
@@ -19,7 +19,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/advancing-enterprise-ai-new-sap-on-azure-announcements-from-sap-sapphire-2026/"
     },
     {
-      "id": "https://azure.microsoft.com/en-us/blog/red-hat-summit-2026-platform-modernization-and-ai-on-azure-microsoft-red-hat-openshift/",
+      "id": "https://azure.microsoft.com/en-us/blog/?p=50825",
       "title": "Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift",
       "summary": "Microsoft and Red Hat show how Azure Red Hat OpenShift powers modernization and production AI with secure, scalable enterprise governance. The post Red Hat Summit 2026: Platform modernization and AI on Microsoft Azure Red Hat OpenShift appeared first on Microsoft Azure Blog .",
       "publishedAt": "Mon, 11 May 2026 19:00:00 +0000",
