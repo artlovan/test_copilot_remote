@@ -1,7 +1,15 @@
 {
-  "fetchedAt": "2026-05-21T19:41:41.955Z",
+  "fetchedAt": "2026-05-22T02:06:51.950Z",
   "statusFeed": [],
   "blogUpdates": [
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=51102",
+      "title": "Azure IaaS: Deploy high-performance workloads with a system-level approach",
+      "summary": "Performance in the cloud is no longer defined by individual resources—it’s shaped by how compute, storage, and networking work together. Azure IaaS takes a system-level approach to help organizations achieve consistent, scalable performance across AI, cloud-native, and business-critical workloads. T",
+      "publishedAt": "Wed, 20 May 2026 16:00:00 +0000",
+      "category": "Compute",
+      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-deploy-high-performance-workloads-with-a-system-level-approach/"
+    },
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=51133",
       "title": "Azure Files Entra-Only identities: Advancing cloud-native identity and security",
@@ -73,21 +81,13 @@
       "publishedAt": "Tue, 28 Apr 2026 16:00:00 +0000",
       "category": "AI + machine learning",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-api-management-2026-vendor-assessment/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=50554",
-      "title": "Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local",
-      "summary": "Azure Local scales Microsoft Sovereign Private Cloud, supporting AI and data workloads with full control, compliance, and disconnected operations. The post Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Mon, 27 Apr 2026 18:00:00 +0000",
-      "category": "Hybrid + multicloud",
-      "link": "https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/"
     }
   ],
   "incidentHistory": [
     {
       "id": "5GP8-W0G",
       "title": "Post Incident Review (PIR) – Multiple services – Control plane issues in East US",
-      "description": "Join either of our upcoming 'Azure Incident Retrospective' livestreams discussing this incident (to hear from our engineering leaders, and to get any questions answered by our experts) or watch a recording of the livestream (available the following week, on YouTube):",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident: https://aka.ms/air/5GP8-W0G",
       "severity": "critical",
       "status": "resolved",
       "startedAt": "2026-04-24T00:00:00.000Z",
@@ -96,7 +96,7 @@
         "Multiple services",
         "Control plane issues in East US"
       ],
-      "link": "https://aka.ms/air/5GP8-W0G/1"
+      "link": "https://aka.ms/air/5GP8-W0G"
     },
     {
       "id": "8GCS-858",
