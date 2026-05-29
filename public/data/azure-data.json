@@ -1,6 +1,43 @@
 {
-  "fetchedAt": "2026-05-29T02:02:12.643Z",
-  "statusFeed": [],
+  "fetchedAt": "2026-05-29T09:31:40.248Z",
+  "statusFeed": [
+    {
+      "title": "Active – Multi Service degradation in West US 2 region.",
+      "description": "&lt;p&gt;Impact Statement: Starting at 04:27 UTC on 29 May 2026, we are investigating an incident which is impacting multiple services in West US 2, due to a power event. This impacts service accessibility in the region, with customers potentially experiencing increased latency and intermittent connectivity, including timeouts when connecting to resources.&lt;/p&gt;&lt;p&gt;Affected Azure services include, but are not limited to: App Service, Azure Backup, Azure Container Registry, Azure Cosmos DB, Azure Database for MySQL flexible servers, Azure IoT Hub, Azure Kubernetes Service (AKS), Azure Monitor, Application Insights, Log Analytics, Azure NetApp Files, Azure Site Recovery, Azure Synapse Analytics, Microsoft Defender for Cloud, Azure Databricks and Azure Storage.&lt;/p&gt;&lt;p&gt;Current Status: We identified this issue through our automated monitoring after detecting elevated alerts related to network and infrastructure health in the West US 2 region.&lt;/p&gt;&lt;p&gt;&amp;nbsp;The issue was triggered by a power event in the datacenter, which impacted underlying infrastructure and led to increased latency and intermittent connectivity for select resources. We are aware of the impact and are actively investigating.&lt;/p&gt;&lt;p&gt;&amp;nbsp;Mitigation efforts are underway to restore affected network components across dependent services, including Storage and Compute. Customers may begin to see signs of recovery as these actions progress.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The next update will be provided within 60 minutes, or sooner if there are significant developments.&lt;/p&gt;",
+      "link": "https://azurestatusprodcac.azurewebsites.net/en-us/status/",
+      "pubDate": "Fri, 29 May 2026 04:27:00 Z",
+      "guid": "active-–-multi-service-degradation-in-west-us-2-region",
+      "categories": [
+        "App Service",
+        "Application Insights",
+        "Azure Cosmos DB",
+        "Azure Data Explorer",
+        "Azure Databricks",
+        "Azure IoT Hub",
+        "Azure Kubernetes Service (AKS)",
+        "Azure Maps",
+        "Azure Monitor",
+        "Azure NetApp Files",
+        "Azure Policy",
+        "Azure Resource Graph",
+        "Azure Resource Manager",
+        "Azure Synapse Analytics",
+        "Azure Backup",
+        "Container Registry",
+        "Azure Functions",
+        "Log Analytics",
+        "Network Infrastructure",
+        "Power BI Embedded",
+        "Service Bus",
+        "Azure Site Recovery",
+        "Storage Accounts",
+        "Virtual Machine Scale Sets",
+        "Virtual Machines",
+        "West US 2",
+        "Public Non-Regional"
+      ]
+    }
+  ],
   "blogUpdates": [
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=51116",
