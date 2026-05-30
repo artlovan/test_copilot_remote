@@ -1,27 +1,6 @@
 {
-  "fetchedAt": "2026-05-29T20:06:22.785Z",
-  "statusFeed": [
-    {
-      "title": "Active – Recovering - Multiple Services experiencing degradation in West US 2",
-      "description": "&lt;p&gt;&lt;strong&gt;Impact statement:&lt;/strong&gt; Starting at 04:27 UTC on 29 May 2026, a severe thunderstorm caused widespread utility power loss across multiple West US 2 datacenter facilities, resulting in impact to multiple Azure services. Datacenter power has been fully restored, and the majority of network and storage infrastructure has recovered. Infrastructure in Availability Zone 2 has recovered and is operating normally. Residual impact is now concentrated on a subset of infrastructure within Availability Zones 1 and 3, where two storage stamps are undergoing final recovery and validation. Customers with resources deployed exclusively in Availability Zone 2 should not be affected by the remaining recovery activities; however, those with dependencies in Availability Zones 1 or 3 may continue to experience intermittent connectivity, elevated latency, or resource unavailability.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Currently affected Azure services include, but may not be limited to (recovery validation underway):&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;em&gt;Azure Functions, Azure Database for MySQL Flexible Server, Azure SQL, Azure Managed Grafana, Virtual Machines, Virtual Machine Scale Sets, Azure Kubernetes Service, Azure Storage, Application Insights, Azure Monitor, and Azure Log Analytics.&lt;/em&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;The following services have recovered and are operating normally:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;em&gt;Service Bus, App Service (Web Apps), Azure Site Recovery, Backup (MAB), Azure Cosmos DB, Azure Resource Manager, Azure Data Explorer, Azure IoT Hub, Microsoft Defender for Cloud Apps, Azure Container Registry, Azure Policy, Azure NetApp Files, Azure Resource Graph, Azure Data Factory, Azure Databricks, Azure Cache for Redis, Azure Database for PostgreSQL Flexible Server and Azure Synapse Analytics.&lt;/em&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Current Status:&lt;/strong&gt; A severe weather event, including multiple lightning strikes, affected several datacenter facilities in the West US 2 region, resulting in concurrent utility power interruptions across multiple availability zones. Backup generators activated as designed; however, during the transition to sustained generator operation, a subset of generator systems were unable to fully synchronize under the sudden facility load, while others subsequently shut down due to thermal protection mechanisms as cooling systems were impacted by the broader power disruption. Because these events occurred across multiple facilities within the same timeframe, the resulting conditions exceeded the resiliency designed for this particular failure scenario.&lt;/p&gt;&lt;p&gt;Datacenter utility power has been fully restored. HVAC systems have normalized, ambient temperatures have returned to expected operating ranges, and the majority of network and storage infrastructure has recovered successfully. While most services have returned to normal operation, a small subset of storage clusters and network devices did not recover cleanly and continue to limit full-service restoration. Some storage clusters remain partially unavailable or dependent on ongoing network recovery activities, and a limited number of network devices connecting compute resources to storage infrastructure remain impaired. As a result, some virtual machines are currently unable to access their underlying storage dependencies and may remain unavailable.&lt;/p&gt;&lt;p&gt;Recovery efforts have transitioned from broad infrastructure restoration to targeted remediation of specific network devices, storage clusters, and isolated compute nodes. As these components are restored, validated, and returned to service, dependent workloads are recovering incrementally. Two storage stamps are currently completing final recovery and integrity validation activities, and services dependent on those stamps are expected to recover as this work is completed.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Estimated Time to Resolution:&lt;/strong&gt; With datacenter power restored and the majority of network and storage infrastructure recovered, remaining work is focused on two storage stamps completing final recovery and data integrity validation activities. Based on current progress, we estimate full-service restoration within approximately 2-3 hours. Individual services dependent on these stamps will recover progressively as validation activities are completed.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Customer Guidance:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Single-region workloads will recover automatically as infrastructure restoration activities are completed; no customer action is required.&lt;/li&gt;&lt;li&gt;We recommend postponing new deployments into West US 2 until this incident is resolved and using alternate regions for urgent deployment needs.&lt;/li&gt;&lt;li&gt;Logical availability zones assigned to customer subscriptions may map to different physical availability zones. Customers can use the Locations API to understand this mapping: &lt;a href=\"https://learn.microsoft.com/rest/api/resources/subscriptions/list-locations?HTTP#availabilityzonemappings\" target=\"_blank\"&gt;https://learn.microsoft.com/rest/api/resources/subscriptions/list-locations?HTTP#availabilityzonemappings&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Next Update: &lt;/strong&gt;We will provide our next status update within 60 minutes, or sooner if significant progress is made.&lt;/p&gt;",
-      "link": "https://azurestatusprodwus.azurewebsites.net/en-us/status/",
-      "pubDate": "Fri, 29 May 2026 04:27:00 Z",
-      "guid": "active-–-recovering-multiple-services-experiencing-degradation-in-west-us-2",
-      "categories": [
-        "Application Insights",
-        "Azure Kubernetes Service (AKS)",
-        "Azure Maps",
-        "Azure Monitor",
-        "Azure Functions",
-        "Log Analytics",
-        "Power BI Embedded",
-        "Storage Accounts",
-        "Virtual Machine Scale Sets",
-        "Virtual Machines",
-        "West US 2"
-      ]
-    }
-  ],
+  "fetchedAt": "2026-05-30T01:56:31.795Z",
+  "statusFeed": [],
   "blogUpdates": [
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=51116",
@@ -108,13 +87,24 @@
     {
       "id": "LYXT-C1Z",
       "title": "Mitigated - Azure OpenAI Service Elevated Error Rates in multiple regions",
-      "description": "Between 09:39 UTC and 12:17 UTC on 29 May 2026, a platform issue resulted in an impact to the Azure OpenAI service in multiple regions. Customers may have experienced degraded request success where some requests returned errors or failed to complete. region.",
+      "description": "What happened?",
       "severity": "critical",
       "status": "resolved",
       "startedAt": "2026-05-29T00:00:00.000Z",
       "updatedAt": "2026-05-29T00:00:00.000Z",
       "affectedServices": [],
-      "link": "https://aka.ms/air/5GP8-W0G"
+      "link": "https://aka.ms/ash-alerts"
+    },
+    {
+      "id": "GHRP-84G",
+      "title": "Mitigated - Multiple Services experiencing degradation in West US 2",
+      "description": "What happened?",
+      "severity": "critical",
+      "status": "resolved",
+      "startedAt": "2026-05-29T00:00:00.000Z",
+      "updatedAt": "2026-05-29T00:00:00.000Z",
+      "affectedServices": [],
+      "link": "https://azure.status.microsoft/en-us/status/history/#GHRP-84G"
     },
     {
       "id": "5GP8-W0G",
@@ -229,20 +219,6 @@
         "West Europe"
       ],
       "link": "https://aka.ms/air/2LGD-9VG"
-    },
-    {
-      "id": "YKYN-BWZ",
-      "title": "Post Incident Review (PIR) – Azure Front Door – Connectivity issues across multiple regions",
-      "description": "Read Azure Front Door's blog series in making progress on key resilience repairs: https://aka.ms/AzureFrontDoor/Resiliency-Part1",
-      "severity": "critical",
-      "status": "resolved",
-      "startedAt": "2025-10-29T00:00:00.000Z",
-      "updatedAt": "2025-10-29T00:00:00.000Z",
-      "affectedServices": [
-        "Azure Front Door",
-        "Connectivity issues across multiple regions"
-      ],
-      "link": "https://aka.ms/AzureFrontDoor/Resiliency-Part1"
     }
   ]
 }
