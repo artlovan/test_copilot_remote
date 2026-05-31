@@ -1,7 +1,15 @@
 {
-  "fetchedAt": "2026-05-30T18:56:56.582Z",
+  "fetchedAt": "2026-05-31T02:11:40.291Z",
   "statusFeed": [],
   "blogUpdates": [
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=51281",
+      "title": "Claude Opus 4.8 is now available in Microsoft Foundry",
+      "summary": "Claude Opus 4.8 is now available in Microsoft Foundry, giving developers and enterprises access to Anthropic’s most capable Opus model for coding, agentic tasks, and professional work. The post Claude Opus 4.8 is now available in Microsoft Foundry appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Fri, 29 May 2026 14:46:32 +0000",
+      "category": "AI + machine learning",
+      "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367"
+    },
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=51116",
       "title": "Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager",
@@ -73,14 +81,6 @@
       "publishedAt": "Wed, 06 May 2026 14:00:00 +0000",
       "category": "AI + machine learning",
       "link": "https://azure.microsoft.com/en-us/blog/scaling-cloud-and-ai-microsoft-azures-commitment-to-europes-digital-future/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=50657",
-      "title": "Azure IaaS: Defense in depth built on secure-by-design principles",
-      "summary": "Security for cloud infrastructure is no longer defined by a single control, product, or boundary. Modern threats target identity, software supply chains, control planes, networks, and data simultaneously. The post Azure IaaS: Defense in depth built on secure-by-design principles appeared first on Mi",
-      "publishedAt": "Mon, 04 May 2026 16:00:00 +0000",
-      "category": "Compute",
-      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-defense-in-depth-built-on-secure-by-design-principles/"
     }
   ],
   "incidentHistory": [
