@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-01T21:19:47.417Z",
+  "fetchedAt": "2026-06-02T02:32:25.078Z",
   "statusFeed": [],
   "blogUpdates": [
     {
@@ -97,14 +97,17 @@
     },
     {
       "id": "GHRP-84G",
-      "title": "Mitigated - Multiple Services experiencing degradation in West US 2",
-      "description": "What happened?",
+      "title": "Preliminary Post Incident Review (PIR) – Multiple services – Power/cooling issues in West US 2",
+      "description": "This is our Preliminary PIR to share what we know so far. After our internal retrospective is completed (generally within 14 days) we will publish a Final PIR with additional details.",
       "severity": "critical",
       "status": "resolved",
       "startedAt": "2026-05-29T00:00:00.000Z",
       "updatedAt": "2026-05-29T00:00:00.000Z",
-      "affectedServices": [],
-      "link": "https://azure.status.microsoft/en-us/status/history/#GHRP-84G"
+      "affectedServices": [
+        "Multiple services",
+        "Power/cooling issues in West US 2"
+      ],
+      "link": "https://aka.ms/air/GHRP-84G/1"
     },
     {
       "id": "5GP8-W0G",
