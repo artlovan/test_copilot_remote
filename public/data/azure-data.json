@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-08T15:24:19.399Z",
+  "fetchedAt": "2026-06-08T19:59:11.002Z",
   "statusFeed": [],
   "blogUpdates": [
     {
@@ -35,7 +35,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/new-azure-cobalt-200-vms-deliver-50-performance-improvement-fully-optimized-for-modern-agentic-ai-workloads/"
     },
     {
-      "id": "https://devblogs.microsoft.com/foundry/build-smarter-agents-faster-with-foundry-iq/",
+      "id": "https://azure.microsoft.com/en-us/blog/?p=51599",
       "title": "Foundry IQ: Build smarter agents faster with unified knowledge and serverless retrieval",
       "summary": "Build smarter agents with Microsoft Foundry IQ, unifying enterprise and external data into a secure, scalable knowledge layer for faster, higher-quality answers. The post Foundry IQ: Build smarter agents faster with unified knowledge and serverless retrieval appeared first on Microsoft Azure Blog .",
       "publishedAt": "Tue, 02 Jun 2026 16:00:00 +0000",
@@ -43,7 +43,7 @@
       "link": "https://devblogs.microsoft.com/foundry/build-smarter-agents-faster-with-foundry-iq/"
     },
     {
-      "id": "https://devblogs.microsoft.com/foundry/build-2026-foundry-models/",
+      "id": "https://azure.microsoft.com/en-us/blog/?p=51596",
       "title": "A Developer’s Guide to Managing Models, Cost and Quality in Microsoft Foundry",
       "summary": "Microsoft Foundry helps teams move beyond model access to operate AI at scale—selecting, evaluating, optimizing, and governing models across the full lifecycle. The post A Developer’s Guide to Managing Models, Cost and Quality in Microsoft Foundry appeared first on Microsoft Azure Blog .",
       "publishedAt": "Tue, 02 Jun 2026 16:00:00 +0000",
@@ -51,7 +51,7 @@
       "link": "https://devblogs.microsoft.com/foundry/build-2026-foundry-models/"
     },
     {
-      "id": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367",
+      "id": "https://azure.microsoft.com/en-us/blog/?p=51281",
       "title": "Claude Opus 4.8 is now available in Microsoft Foundry",
       "summary": "Claude Opus 4.8 is now available in Microsoft Foundry, giving developers and enterprises access to Anthropic’s most capable Opus model for coding, agentic tasks, and professional work. The post Claude Opus 4.8 is now available in Microsoft Foundry appeared first on Microsoft Azure Blog .",
       "publishedAt": "Fri, 29 May 2026 14:46:32 +0000",
