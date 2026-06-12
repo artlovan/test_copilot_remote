@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-11T20:07:58.941Z",
+  "fetchedAt": "2026-06-12T02:15:51.285Z",
   "statusFeed": [],
   "blogUpdates": [
     {
@@ -86,14 +86,17 @@
   "incidentHistory": [
     {
       "id": "LYXT-C1Z",
-      "title": "Mitigated - Azure OpenAI Service Elevated Error Rates in multiple regions",
-      "description": "What happened?",
+      "title": "Post Incident Review (PIR) – Azure OpenAI Service – Latency and intermittent failures in multiple regions",
+      "description": "Join either of our upcoming 'Azure Incident Retrospective' livestreams discussing this incident (to hear from our engineering leaders, and to get any questions answered by our experts) or watch a recording of the livestream (available the following week, on YouTube):",
       "severity": "critical",
       "status": "resolved",
       "startedAt": "2026-05-29T00:00:00.000Z",
       "updatedAt": "2026-05-29T00:00:00.000Z",
-      "affectedServices": [],
-      "link": "https://aka.ms/ash-alerts"
+      "affectedServices": [
+        "Azure OpenAI Service",
+        "Latency and intermittent failures in multiple regions"
+      ],
+      "link": "https://aka.ms/air/LYXT-C1Z/1"
     },
     {
       "id": "GHRP-84G",
