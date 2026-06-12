@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-06-12T09:54:08.498Z",
+  "fetchedAt": "2026-06-12T14:30:36.715Z",
   "statusFeed": [],
   "blogUpdates": [
     {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=51611",
+      "id": "https://azure.microsoft.com/en-us/blog/claude-fable-5-available-today-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
       "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents",
       "summary": "Claude Fable 5, Anthropic’s latest Frontier model, available today in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service. The post Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents appeared first on Microsoft Azure Blog .",
       "publishedAt": "Tue, 09 Jun 2026 17:00:00 +0000",
@@ -43,7 +43,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/new-azure-cobalt-200-vms-deliver-50-performance-improvement-fully-optimized-for-modern-agentic-ai-workloads/"
     },
     {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=51599",
+      "id": "https://devblogs.microsoft.com/foundry/build-smarter-agents-faster-with-foundry-iq/",
       "title": "Foundry IQ: Build smarter agents faster with unified knowledge and serverless retrieval",
       "summary": "Build smarter agents with Microsoft Foundry IQ, unifying enterprise and external data into a secure, scalable knowledge layer for faster, higher-quality answers. The post Foundry IQ: Build smarter agents faster with unified knowledge and serverless retrieval appeared first on Microsoft Azure Blog .",
       "publishedAt": "Tue, 02 Jun 2026 16:00:00 +0000",
@@ -51,7 +51,7 @@
       "link": "https://devblogs.microsoft.com/foundry/build-smarter-agents-faster-with-foundry-iq/"
     },
     {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=51596",
+      "id": "https://devblogs.microsoft.com/foundry/build-2026-foundry-models/",
       "title": "A Developer’s Guide to Managing Models, Cost and Quality in Microsoft Foundry",
       "summary": "Microsoft Foundry helps teams move beyond model access to operate AI at scale—selecting, evaluating, optimizing, and governing models across the full lifecycle. The post A Developer’s Guide to Managing Models, Cost and Quality in Microsoft Foundry appeared first on Microsoft Azure Blog .",
       "publishedAt": "Tue, 02 Jun 2026 16:00:00 +0000",
@@ -67,7 +67,7 @@
       "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367"
     },
     {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=51116",
+      "id": "https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/",
       "title": "Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager",
       "summary": "With Cilium-based cross-cluster networking, we are delivering a managed, high-performance network that can span your entire fleet. The post Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager appeared first on Microsoft Azure Blog .",
       "publishedAt": "Fri, 22 May 2026 17:00:00 +0000",
