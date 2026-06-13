@@ -1,14 +1,22 @@
 {
-  "fetchedAt": "2026-06-12T19:50:12.409Z",
+  "fetchedAt": "2026-06-13T02:08:18.322Z",
   "statusFeed": [],
   "blogUpdates": [
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=51612",
+      "title": "3 things leaders need to know from Microsoft Build 2026",
+      "summary": "At Microsoft Build 2026, AI moved from experimentation to execution—shifting from isolated tools to connected systems grounded in business data. Organizations that win will embed AI across workflows, scale it effectively, and translate it into measurable outcomes like faster growth, lower costs, and",
+      "publishedAt": "Thu, 11 Jun 2026 19:00:00 +0000",
+      "category": "AI + machine learning",
+      "link": "https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/"
+    },
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=51611",
       "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents",
       "summary": "Claude Fable 5, Anthropic’s latest Frontier model, available today in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service. The post Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents appeared first on Microsoft Azure Blog .",
       "publishedAt": "Tue, 09 Jun 2026 17:00:00 +0000",
       "category": "AI + machine learning",
-      "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-available-today-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/"
+      "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/"
     },
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=51577",
@@ -73,14 +81,6 @@
       "publishedAt": "Fri, 22 May 2026 17:00:00 +0000",
       "category": "Compute",
       "link": "https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=51157",
-      "title": "Azure NetApp Files for EDA workloads: From revolution to breakthrough at scale",
-      "summary": "Azure NetApp Files is redefining what’s possible for EDA in the cloud—delivering scalable, high-performance storage that supports massive concurrency, low latency, and consistent production performance. With independent benchmark validation and real-world adoption, organizations can now run EDA work",
-      "publishedAt": "Fri, 22 May 2026 15:00:00 +0000",
-      "category": "Storage",
-      "link": "https://azure.microsoft.com/en-us/blog/azure-netapp-files-for-eda-workloads-from-revolution-to-breakthrough-at-scale/"
     }
   ],
   "incidentHistory": [
@@ -100,8 +100,8 @@
     },
     {
       "id": "GHRP-84G",
-      "title": "Preliminary Post Incident Review (PIR) – Multiple services – Power/cooling issues in West US 2",
-      "description": "This is our Preliminary PIR to share what we know so far. After our internal retrospective is completed (generally within 14 days) we will publish a Final PIR with additional details.",
+      "title": "Post Incident Review (PIR) – Multiple services – Power/cooling issues in West US 2",
+      "description": "Join either of our upcoming 'Azure Incident Retrospective' livestreams discussing this incident (to hear from our engineering leaders, and to get any questions answered by our experts) or watch a recording of the livestream (available the following week, on YouTube):",
       "severity": "critical",
       "status": "resolved",
       "startedAt": "2026-05-29T00:00:00.000Z",
