@@ -1,15 +1,7 @@
 {
-  "fetchedAt": "2026-06-19T14:39:03.645Z",
+  "fetchedAt": "2026-06-19T19:23:10.533Z",
   "statusFeed": [],
   "blogUpdates": [
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=52171",
-      "title": "Modernize your data with Azure Storage: Plan and migrate with confidence",
-      "summary": "Enterprise storage migrations are rarely just about copying data. They are about protecting business continuity, maintaining performance, managing cost, and giving teams confidence when terabytes or petabytes of data sit at the heart of critical applications. The post Modernize your data with Azure ",
-      "publishedAt": "Tue, 16 Jun 2026 16:00:00 +0000",
-      "category": "Management and governance",
-      "link": "https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/"
-    },
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=51612",
       "title": "3 things leaders need to know from Microsoft Build 2026",
@@ -81,6 +73,14 @@
       "publishedAt": "Fri, 29 May 2026 14:46:32 +0000",
       "category": "AI + machine learning",
       "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-4-8-is-now-available-in-microsoft-foundry/4523367"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=51116",
+      "title": "Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager",
+      "summary": "With Cilium-based cross-cluster networking, we are delivering a managed, high-performance network that can span your entire fleet. The post Powering multi-cluster workloads with seamless cross‑cluster networking for Azure Kubernetes Fleet Manager appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Fri, 22 May 2026 17:00:00 +0000",
+      "category": "Compute",
+      "link": "https://azure.microsoft.com/en-us/blog/powering-multi-cluster-workloads-with-seamless-cross-cluster-networking-for-azure-kubernetes-fleet-manager/"
     }
   ],
   "incidentHistory": [
