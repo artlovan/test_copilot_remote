@@ -1,31 +1,7 @@
 {
-  "fetchedAt": "2026-06-30T19:29:11.973Z",
+  "fetchedAt": "2026-07-01T02:12:55.370Z",
   "statusFeed": [],
   "blogUpdates": [
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=52421",
-      "title": "Claude in Microsoft Foundry is now generally available",
-      "summary": "Claude in Microsoft Foundry is now generally available, hosted on Azure, and running on NVIDIA GB300 Blackwell Ultra, giving teams a faster path from agent experimentation to production. The post Claude in Microsoft Foundry is now generally available appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Mon, 29 Jun 2026 17:00:00 +0000",
-      "category": "AI + machine learning",
-      "link": "https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=52418",
-      "title": "The 2026 Agent Confidence Index: Where 300 builders see real momentum",
-      "summary": "At Microsoft, building trustworthy AI agents is as critical as building powerful ones. New research from the 2026 Agent Confidence Index shows where teams trust agents today—and why human judgment remains the defining skill in the age of AI. The post The 2026 Agent Confidence Index: Where 300 builde",
-      "publishedAt": "Mon, 29 Jun 2026 15:15:00 +0000",
-      "category": "AI + machine learning",
-      "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=52330",
-      "title": "Accelerate modern Linux workloads with Azure Files",
-      "summary": "Azure Files combines familiar file access with built-in performance, data protection, security, and Azure service integration. The post Accelerate modern Linux workloads with Azure Files appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Mon, 29 Jun 2026 15:00:00 +0000",
-      "category": "Compute",
-      "link": "https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/"
-    },
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=52298",
       "title": "The performance dividend: Optimizing PostgreSQL on Azure directly in Visual Studio Code",
@@ -81,6 +57,30 @@
       "publishedAt": "Tue, 02 Jun 2026 18:15:00 +0000",
       "category": "AI + machine learning",
       "link": "https://azure.microsoft.com/en-us/blog/announcing-microsoft-discovery-general-availability-and-microsoft-discovery-app-preview/"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=51265",
+      "title": "Microsoft Build 2026: Building agentic apps with Microsoft Fabric and Microsoft Databases",
+      "summary": "Microsoft Build 2026 highlights advancements in app development with Microsoft Fabric and Microsoft Databases, emphasizing a unified data and AI platform for scalable, agentic applications. The post Microsoft Build 2026: Building agentic apps with Microsoft Fabric and Microsoft Databases appeared fi",
+      "publishedAt": "Tue, 02 Jun 2026 16:59:00 +0000",
+      "category": "AI + machine learning",
+      "link": "https://azure.microsoft.com/en-us/blog/microsoft-build-2026-building-agentic-apps-with-microsoft-fabric-and-microsoft-databases/"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=51320",
+      "title": "New Azure Cobalt 200 VMs deliver 50% performance improvement, fully optimized for modern agentic AI workloads",
+      "summary": "We are announcing the early access preview for Azure Cobalt 200 Arm-based Virtual Machines (VMs), designed for Linux-based agentic AI workloads. The post New Azure Cobalt 200 VMs deliver 50% performance improvement, fully optimized for modern agentic AI workloads appeared first on Microsoft Azure Bl",
+      "publishedAt": "Tue, 02 Jun 2026 16:30:09 +0000",
+      "category": "Compute",
+      "link": "https://azure.microsoft.com/en-us/blog/new-azure-cobalt-200-vms-deliver-50-performance-improvement-fully-optimized-for-modern-agentic-ai-workloads/"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=51599",
+      "title": "Foundry IQ: Build smarter agents faster with unified knowledge and serverless retrieval",
+      "summary": "Build smarter agents with Microsoft Foundry IQ, unifying enterprise and external data into a secure, scalable knowledge layer for faster, higher-quality answers. The post Foundry IQ: Build smarter agents faster with unified knowledge and serverless retrieval appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Tue, 02 Jun 2026 16:00:00 +0000",
+      "category": "AI + machine learning",
+      "link": "https://devblogs.microsoft.com/foundry/build-smarter-agents-faster-with-foundry-iq/"
     }
   ],
   "incidentHistory": [
