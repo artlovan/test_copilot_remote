@@ -1,15 +1,7 @@
 {
-  "fetchedAt": "2026-07-04T12:56:29.143Z",
+  "fetchedAt": "2026-07-04T18:53:19.101Z",
   "statusFeed": [],
   "blogUpdates": [
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=52339",
-      "title": "Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost optimization efficiency",
-      "summary": "As organizations modernize infrastructure, migrate mission-critical workloads, build cloud-native applications, and scale AI—cost efficiency remains a foundational principle of cloud architectures. The post Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost optimi",
-      "publishedAt": "Tue, 30 Jun 2026 16:00:00 +0000",
-      "category": "Compute",
-      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/"
-    },
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=52421",
       "title": "Claude in Microsoft Foundry is now generally available",
@@ -81,6 +73,14 @@
       "publishedAt": "Tue, 02 Jun 2026 19:15:57 +0000",
       "category": "AI + machine learning",
       "link": "https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=51244",
+      "title": "Announcing Microsoft Discovery general availability and Microsoft Discovery app preview",
+      "summary": "At Microsoft Build, we are announcing that Microsoft Discovery is now generally available for all organizations, providing a comprehensive platform for building and governing agentic AI workflows. The post Announcing Microsoft Discovery general availability and Microsoft Discovery app preview appear",
+      "publishedAt": "Tue, 02 Jun 2026 18:15:00 +0000",
+      "category": "AI + machine learning",
+      "link": "https://azure.microsoft.com/en-us/blog/announcing-microsoft-discovery-general-availability-and-microsoft-discovery-app-preview/"
     }
   ],
   "incidentHistory": [
