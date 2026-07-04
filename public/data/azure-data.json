@@ -1,7 +1,47 @@
 {
-  "fetchedAt": "2026-07-03T18:58:52.913Z",
+  "fetchedAt": "2026-07-04T01:48:33.400Z",
   "statusFeed": [],
   "blogUpdates": [
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=52372",
+      "title": "Proving application resilience on Azure with Chaos Studio",
+      "summary": "Azure Chaos Studio helps organizations validate application resilience by simulating outages, failovers, network disruptions, and infrastructure failures before they impact production. The post Proving application resilience on Azure with Chaos Studio appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Wed, 01 Jul 2026 16:00:00 +0000",
+      "category": "AI + machine learning",
+      "link": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=52339",
+      "title": "Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency",
+      "summary": "As organizations modernize infrastructure, migrate mission-critical workloads, build cloud-native applications, and scale AI—cost efficiency remains a foundational principle of cloud architectures. The post Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost effici",
+      "publishedAt": "Tue, 30 Jun 2026 16:00:00 +0000",
+      "category": "Compute",
+      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=52421",
+      "title": "Claude in Microsoft Foundry is now generally available",
+      "summary": "Claude in Microsoft Foundry is now generally available, hosted on Azure, and running on NVIDIA GB300 Blackwell Ultra, giving teams a faster path from agent experimentation to production. The post Claude in Microsoft Foundry is now generally available appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Mon, 29 Jun 2026 17:00:00 +0000",
+      "category": "AI + machine learning",
+      "link": "https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=52418",
+      "title": "The 2026 Agent Confidence Index: Where 300 builders see real momentum",
+      "summary": "At Microsoft, building trustworthy AI agents is as critical as building powerful ones. New research from the 2026 Agent Confidence Index shows where teams trust agents today—and why human judgment remains the defining skill in the age of AI. The post The 2026 Agent Confidence Index: Where 300 builde",
+      "publishedAt": "Mon, 29 Jun 2026 15:15:00 +0000",
+      "category": "AI + machine learning",
+      "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/",
+      "title": "Accelerate modern Linux workloads with Azure Files",
+      "summary": "Azure Files combines familiar file access with built-in performance, data protection, security, and Azure service integration. The post Accelerate modern Linux workloads with Azure Files appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Mon, 29 Jun 2026 15:00:00 +0000",
+      "category": "Compute",
+      "link": "https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/"
+    },
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=52298",
       "title": "The performance dividend: Optimizing PostgreSQL on Azure directly in Visual Studio Code",
@@ -41,46 +81,6 @@
       "publishedAt": "Tue, 09 Jun 2026 17:00:00 +0000",
       "category": "AI + machine learning",
       "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=51577",
-      "title": "AI alone won’t change your business. The system running it will.",
-      "summary": "We are building a comprehensive agent platform: one that supports many models, is open, and gives you flexibility at every layer of the stack. The post AI alone won’t change your business. The system running it will. appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Tue, 02 Jun 2026 19:15:57 +0000",
-      "category": "AI + machine learning",
-      "link": "https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=51244",
-      "title": "Announcing Microsoft Discovery general availability and Microsoft Discovery app preview",
-      "summary": "At Microsoft Build, we are announcing that Microsoft Discovery is now generally available for all organizations, providing a comprehensive platform for building and governing agentic AI workflows. The post Announcing Microsoft Discovery general availability and Microsoft Discovery app preview appear",
-      "publishedAt": "Tue, 02 Jun 2026 18:15:00 +0000",
-      "category": "AI + machine learning",
-      "link": "https://azure.microsoft.com/en-us/blog/announcing-microsoft-discovery-general-availability-and-microsoft-discovery-app-preview/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=51265",
-      "title": "Microsoft Build 2026: Building agentic apps with Microsoft Fabric and Microsoft Databases",
-      "summary": "Microsoft Build 2026 highlights advancements in app development with Microsoft Fabric and Microsoft Databases, emphasizing a unified data and AI platform for scalable, agentic applications. The post Microsoft Build 2026: Building agentic apps with Microsoft Fabric and Microsoft Databases appeared fi",
-      "publishedAt": "Tue, 02 Jun 2026 16:59:00 +0000",
-      "category": "AI + machine learning",
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-build-2026-building-agentic-apps-with-microsoft-fabric-and-microsoft-databases/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=51320",
-      "title": "New Azure Cobalt 200 VMs deliver 50% performance improvement, fully optimized for modern agentic AI workloads",
-      "summary": "We are announcing the early access preview for Azure Cobalt 200 Arm-based Virtual Machines (VMs), designed for Linux-based agentic AI workloads. The post New Azure Cobalt 200 VMs deliver 50% performance improvement, fully optimized for modern agentic AI workloads appeared first on Microsoft Azure Bl",
-      "publishedAt": "Tue, 02 Jun 2026 16:30:09 +0000",
-      "category": "Compute",
-      "link": "https://azure.microsoft.com/en-us/blog/new-azure-cobalt-200-vms-deliver-50-performance-improvement-fully-optimized-for-modern-agentic-ai-workloads/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=51599",
-      "title": "Foundry IQ: Build smarter agents faster with unified knowledge and serverless retrieval",
-      "summary": "Build smarter agents with Microsoft Foundry IQ, unifying enterprise and external data into a secure, scalable knowledge layer for faster, higher-quality answers. The post Foundry IQ: Build smarter agents faster with unified knowledge and serverless retrieval appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Tue, 02 Jun 2026 16:00:00 +0000",
-      "category": "AI + machine learning",
-      "link": "https://devblogs.microsoft.com/foundry/build-smarter-agents-faster-with-foundry-iq/"
     }
   ],
   "incidentHistory": [
