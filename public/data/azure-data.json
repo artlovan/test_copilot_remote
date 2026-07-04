@@ -1,19 +1,11 @@
 {
-  "fetchedAt": "2026-07-04T08:20:43.011Z",
+  "fetchedAt": "2026-07-04T12:56:29.143Z",
   "statusFeed": [],
   "blogUpdates": [
     {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=52372",
-      "title": "Proving application resilience on Azure with Chaos Studio",
-      "summary": "Azure Chaos Studio helps organizations validate application resilience by simulating outages, failovers, network disruptions, and infrastructure failures before they impact production. The post Proving application resilience on Azure with Chaos Studio appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Wed, 01 Jul 2026 16:00:00 +0000",
-      "category": "AI + machine learning",
-      "link": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/"
-    },
-    {
       "id": "https://azure.microsoft.com/en-us/blog/?p=52339",
-      "title": "Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency",
-      "summary": "As organizations modernize infrastructure, migrate mission-critical workloads, build cloud-native applications, and scale AI—cost efficiency remains a foundational principle of cloud architectures. The post Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost effici",
+      "title": "Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost optimization efficiency",
+      "summary": "As organizations modernize infrastructure, migrate mission-critical workloads, build cloud-native applications, and scale AI—cost efficiency remains a foundational principle of cloud architectures. The post Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost optimi",
       "publishedAt": "Tue, 30 Jun 2026 16:00:00 +0000",
       "category": "Compute",
       "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/"
@@ -35,7 +27,7 @@
       "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/"
     },
     {
-      "id": "https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/",
+      "id": "https://azure.microsoft.com/en-us/blog/?p=52330",
       "title": "Accelerate modern Linux workloads with Azure Files",
       "summary": "Azure Files combines familiar file access with built-in performance, data protection, security, and Azure service integration. The post Accelerate modern Linux workloads with Azure Files appeared first on Microsoft Azure Blog .",
       "publishedAt": "Mon, 29 Jun 2026 15:00:00 +0000",
@@ -81,6 +73,14 @@
       "publishedAt": "Tue, 09 Jun 2026 17:00:00 +0000",
       "category": "AI + machine learning",
       "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=51577",
+      "title": "AI alone won’t change your business. The system running it will.",
+      "summary": "We are building a comprehensive agent platform: one that supports many models, is open, and gives you flexibility at every layer of the stack. The post AI alone won’t change your business. The system running it will. appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Tue, 02 Jun 2026 19:15:57 +0000",
+      "category": "AI + machine learning",
+      "link": "https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/"
     }
   ],
   "incidentHistory": [
