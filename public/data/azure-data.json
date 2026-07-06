@@ -1,31 +1,7 @@
 {
-  "fetchedAt": "2026-07-06T09:52:11.094Z",
+  "fetchedAt": "2026-07-06T14:54:23.697Z",
   "statusFeed": [],
   "blogUpdates": [
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=52479",
-      "title": "Meet Brain: The AI system behind Azure reliability",
-      "summary": "Learn how Microsoft is building a digital twin of Azure Service Health and why it changes how hyperscale operates. The post Meet Brain: The AI system behind Azure reliability appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Thu, 02 Jul 2026 16:00:00 +0000",
-      "category": "AI + machine learning",
-      "link": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=52372",
-      "title": "Proving application resilience on Azure with Chaos Studio",
-      "summary": "Azure Chaos Studio helps organizations validate application resilience by simulating outages, failovers, network disruptions, and infrastructure failures before they impact production. The post Proving application resilience on Azure with Chaos Studio appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Wed, 01 Jul 2026 16:00:00 +0000",
-      "category": "AI + machine learning",
-      "link": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=52339",
-      "title": "Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost efficiency",
-      "summary": "As organizations modernize infrastructure, migrate mission-critical workloads, build cloud-native applications, and scale AI—cost efficiency remains a foundational principle of cloud architectures. The post Azure IaaS: How to design, build, and optimize cloud infrastructure for long-term cost effici",
-      "publishedAt": "Tue, 30 Jun 2026 16:00:00 +0000",
-      "category": "Compute",
-      "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/"
-    },
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=52421",
       "title": "Claude in Microsoft Foundry is now generally available",
@@ -81,6 +57,30 @@
       "publishedAt": "Thu, 11 Jun 2026 19:00:00 +0000",
       "category": "AI + machine learning",
       "link": "https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=51611",
+      "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents",
+      "summary": "Claude Fable 5, Anthropic’s latest Frontier model, available today in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service. The post Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Tue, 09 Jun 2026 17:00:00 +0000",
+      "category": "AI + machine learning",
+      "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=51577",
+      "title": "AI alone won’t change your business. The system running it will.",
+      "summary": "We are building a comprehensive agent platform: one that supports many models, is open, and gives you flexibility at every layer of the stack. The post AI alone won’t change your business. The system running it will. appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Tue, 02 Jun 2026 19:15:57 +0000",
+      "category": "AI + machine learning",
+      "link": "https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=51244",
+      "title": "Announcing Microsoft Discovery general availability and Microsoft Discovery app preview",
+      "summary": "At Microsoft Build, we are announcing that Microsoft Discovery is now generally available for all organizations, providing a comprehensive platform for building and governing agentic AI workflows. The post Announcing Microsoft Discovery general availability and Microsoft Discovery app preview appear",
+      "publishedAt": "Tue, 02 Jun 2026 18:15:00 +0000",
+      "category": "AI + machine learning",
+      "link": "https://azure.microsoft.com/en-us/blog/announcing-microsoft-discovery-general-availability-and-microsoft-discovery-app-preview/"
     }
   ],
   "incidentHistory": [
