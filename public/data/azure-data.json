@@ -1,7 +1,15 @@
 {
-  "fetchedAt": "2026-07-06T19:31:53.313Z",
+  "fetchedAt": "2026-07-07T01:56:18.304Z",
   "statusFeed": [],
   "blogUpdates": [
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=52479",
+      "title": "Meet Brain: The AI system behind Azure reliability",
+      "summary": "Learn how Microsoft is building a digital twin of Azure Service Health and why it changes how hyperscale operates. The post Meet Brain: The AI system behind Azure reliability appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Thu, 02 Jul 2026 16:00:00 +0000",
+      "category": "AI + machine learning",
+      "link": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/"
+    },
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=52372",
       "title": "Proving application resilience on Azure with Chaos Studio",
@@ -35,7 +43,7 @@
       "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/"
     },
     {
-      "id": "https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/",
+      "id": "https://azure.microsoft.com/en-us/blog/?p=52330",
       "title": "Accelerate modern Linux workloads with Azure Files",
       "summary": "Azure Files combines familiar file access with built-in performance, data protection, security, and Azure service integration. The post Accelerate modern Linux workloads with Azure Files appeared first on Microsoft Azure Blog .",
       "publishedAt": "Mon, 29 Jun 2026 15:00:00 +0000",
@@ -73,21 +81,13 @@
       "publishedAt": "Thu, 11 Jun 2026 19:00:00 +0000",
       "category": "AI + machine learning",
       "link": "https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=51611",
-      "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents",
-      "summary": "Claude Fable 5, Anthropic’s latest Frontier model, available today in Microsoft Foundry, powering agents in GitHub Copilot and Foundry Agent Service. The post Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Tue, 09 Jun 2026 17:00:00 +0000",
-      "category": "AI + machine learning",
-      "link": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/"
     }
   ],
   "incidentHistory": [
     {
       "id": "LYXT-C1Z",
       "title": "Post Incident Review (PIR) – Azure OpenAI Service – Latency and intermittent failures in multiple regions",
-      "description": "Join either of our upcoming 'Azure Incident Retrospective' livestreams discussing this incident (to hear from our engineering leaders, and to get any questions answered by our experts) or watch a recording of the livestream (available the following week, on YouTube):",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident: https://aka.ms/air/LYXT-C1Z",
       "severity": "critical",
       "status": "resolved",
       "startedAt": "2026-05-29T00:00:00.000Z",
@@ -96,12 +96,12 @@
         "Azure OpenAI Service",
         "Latency and intermittent failures in multiple regions"
       ],
-      "link": "https://aka.ms/air/LYXT-C1Z/1"
+      "link": "https://aka.ms/air/LYXT-C1Z"
     },
     {
       "id": "GHRP-84G",
       "title": "Post Incident Review (PIR) – Multiple services – Power/cooling issues in West US 2",
-      "description": "Join either of our upcoming 'Azure Incident Retrospective' livestreams discussing this incident (to hear from our engineering leaders, and to get any questions answered by our experts) or watch a recording of the livestream (available the following week, on YouTube):",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident: https://aka.ms/air/GHRP-84G",
       "severity": "critical",
       "status": "resolved",
       "startedAt": "2026-05-29T00:00:00.000Z",
@@ -110,7 +110,7 @@
         "Multiple services",
         "Power/cooling issues in West US 2"
       ],
-      "link": "https://aka.ms/air/GHRP-84G/1"
+      "link": "https://aka.ms/air/GHRP-84G"
     },
     {
       "id": "5GP8-W0G",
