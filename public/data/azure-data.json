@@ -1,7 +1,23 @@
 {
-  "fetchedAt": "2026-07-11T12:51:15.669Z",
+  "fetchedAt": "2026-07-11T18:42:17.029Z",
   "statusFeed": [],
   "blogUpdates": [
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=52552",
+      "title": "Built to bounce back: How Azure resiliency evolved",
+      "summary": "Cloud resiliency is about ensuring systems can adapt, recover, and keep functioning within real-world constraints. The post Built to bounce back: How Azure resiliency evolved appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Wed, 08 Jul 2026 16:00:00 +0000",
+      "category": "DevOps",
+      "link": "https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=52575",
+      "title": "External key management for Azure Managed HSM is now in public preview",
+      "summary": "Azure Key Vault Managed Hardware Security Module (HSM) provides strong sovereignty over your encryption keys. Keys are generated and stored in a single-tenant, FIPS 140-3 Level 3 HSM that only you control: Microsoft has no access to your key material, and you govern who can use each key. The post Ex",
+      "publishedAt": "Tue, 07 Jul 2026 16:00:00 +0000",
+      "category": "Management and governance",
+      "link": "https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/"
+    },
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=52479",
       "title": "Meet Brain: The AI system behind Azure reliability",
@@ -65,22 +81,6 @@
       "publishedAt": "Tue, 23 Jun 2026 15:45:00 +0000",
       "category": "AI + machine learning",
       "link": "https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=52171",
-      "title": "Modernize your data with Azure Storage: Plan and migrate with confidence",
-      "summary": "Enterprise storage migrations are rarely just about copying data. They are about protecting business continuity, maintaining performance, managing cost, and giving teams confidence when terabytes or petabytes of data sit at the heart of critical applications. The post Modernize your data with Azure ",
-      "publishedAt": "Tue, 16 Jun 2026 16:00:00 +0000",
-      "category": "Management and governance",
-      "link": "https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=51612",
-      "title": "3 things leaders need to know from Microsoft Build 2026",
-      "summary": "At Microsoft Build 2026, AI moved from experimentation to execution—shifting from isolated tools to connected systems grounded in business data. Organizations that win will embed AI across workflows, scale it effectively, and translate it into measurable outcomes like faster growth, lower costs, and",
-      "publishedAt": "Thu, 11 Jun 2026 19:00:00 +0000",
-      "category": "AI + machine learning",
-      "link": "https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/"
     }
   ],
   "incidentHistory": [
