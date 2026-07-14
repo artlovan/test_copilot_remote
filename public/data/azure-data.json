@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-14T01:18:07.865Z",
+  "fetchedAt": "2026-07-14T07:44:23.222Z",
   "statusFeed": [],
   "blogUpdates": [
     {
@@ -67,7 +67,7 @@
       "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/"
     },
     {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=52330",
+      "id": "https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/",
       "title": "Accelerate modern Linux workloads with Azure Files",
       "summary": "Azure Files combines familiar file access with built-in performance, data protection, security, and Azure service integration. The post Accelerate modern Linux workloads with Azure Files appeared first on Microsoft Azure Blog .",
       "publishedAt": "Mon, 29 Jun 2026 15:00:00 +0000",
