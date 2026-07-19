@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-19T12:49:03.467Z",
+  "fetchedAt": "2026-07-19T18:46:25.597Z",
   "statusFeed": [],
   "blogUpdates": [
     {
@@ -83,5 +83,148 @@
       "link": "https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/"
     }
   ],
-  "incidentHistory": []
+  "incidentHistory": [
+    {
+      "id": "LYXT-C1Z",
+      "title": "Post Incident Review (PIR) – Azure OpenAI Service – Latency and intermittent failures in multiple regions",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident: https://aka.ms/air/LYXT-C1Z",
+      "severity": "critical",
+      "status": "resolved",
+      "startedAt": "2026-05-29T00:00:00.000Z",
+      "updatedAt": "2026-05-29T00:00:00.000Z",
+      "affectedServices": [
+        "Azure OpenAI Service",
+        "Latency and intermittent failures in multiple regions"
+      ],
+      "link": "https://aka.ms/air/LYXT-C1Z"
+    },
+    {
+      "id": "GHRP-84G",
+      "title": "Post Incident Review (PIR) – Multiple services – Power/cooling issues in West US 2",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident: https://aka.ms/air/GHRP-84G",
+      "severity": "critical",
+      "status": "resolved",
+      "startedAt": "2026-05-29T00:00:00.000Z",
+      "updatedAt": "2026-05-29T00:00:00.000Z",
+      "affectedServices": [
+        "Multiple services",
+        "Power/cooling issues in West US 2"
+      ],
+      "link": "https://aka.ms/air/GHRP-84G"
+    },
+    {
+      "id": "5GP8-W0G",
+      "title": "Post Incident Review (PIR) – Multiple services – Control plane issues in East US",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident: https://aka.ms/air/5GP8-W0G",
+      "severity": "critical",
+      "status": "resolved",
+      "startedAt": "2026-04-24T00:00:00.000Z",
+      "updatedAt": "2026-04-24T00:00:00.000Z",
+      "affectedServices": [
+        "Multiple services",
+        "Control plane issues in East US"
+      ],
+      "link": "https://aka.ms/air/5GP8-W0G"
+    },
+    {
+      "id": "8GCS-858",
+      "title": "Post Incident Review (PIR) – Azure OpenAI – GPT-5.2 availability degradation in 7 regions",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident:&nbsp; https://aka.ms/air/8GCS-858",
+      "severity": "warning",
+      "status": "resolved",
+      "startedAt": "2026-03-09T00:00:00.000Z",
+      "updatedAt": "2026-03-09T00:00:00.000Z",
+      "affectedServices": [
+        "Azure OpenAI",
+        "GPT-5.2 availability degradation in 7 regions"
+      ],
+      "link": "https://aka.ms/air/8GCS-858"
+    },
+    {
+      "id": "_SVS-5_G",
+      "title": "Post Incident Review (PIR) – Power event impacting multiple services – West US",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident: https://aka.ms/air/_SVS-5_G",
+      "severity": "critical",
+      "status": "resolved",
+      "startedAt": "2026-02-07T00:00:00.000Z",
+      "updatedAt": "2026-02-07T00:00:00.000Z",
+      "affectedServices": [
+        "Power event impacting multiple services",
+        "West US"
+      ],
+      "link": "https://aka.ms/air/_SVS-5_G"
+    },
+    {
+      "id": "FNJ8-VQZ",
+      "title": "Post Incident Review (PIR) – Virtual Machines, Managed identities for Azure resources, and dependent services – Service management issues in multiple regions",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident: https://aka.ms/air/FNJ8-VQZ",
+      "severity": "critical",
+      "status": "resolved",
+      "startedAt": "2026-02-02T00:00:00.000Z",
+      "updatedAt": "2026-02-02T00:00:00.000Z",
+      "affectedServices": [
+        "Virtual Machines",
+        "Managed identities for Azure resources",
+        "and dependent services",
+        "Service management issues in multiple regions"
+      ],
+      "link": "https://aka.ms/air/FNJ8-VQZ"
+    },
+    {
+      "id": "FV31-PQG",
+      "title": "Post Incident Review (PIR) – Entra Privileged Identity Management – Customers experiencing API failures",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident: https://aka.ms/air/FV31-PQG",
+      "severity": "informational",
+      "status": "resolved",
+      "startedAt": "2025-12-22T00:00:00.000Z",
+      "updatedAt": "2025-12-22T00:00:00.000Z",
+      "affectedServices": [
+        "Entra Privileged Identity Management",
+        "Customers experiencing API failures"
+      ],
+      "link": "https://aka.ms/air/FV31-PQG"
+    },
+    {
+      "id": "ML7_-DWG",
+      "title": "Post Incident Review (PIR) – Azure Resource Manager – Service management failures affecting Azure Government",
+      "description": "What happened?",
+      "severity": "informational",
+      "status": "resolved",
+      "startedAt": "2025-12-08T00:00:00.000Z",
+      "updatedAt": "2025-12-08T00:00:00.000Z",
+      "affectedServices": [
+        "Azure Resource Manager",
+        "Service management failures affecting Azure Government"
+      ],
+      "link": "https://azure.status.microsoft/en-us/status/history/#ML7_-DWG"
+    },
+    {
+      "id": "JSNV-FBZ",
+      "title": "Post Incident Review (PIR) – Azure Resource Manager – Service management failures affecting Azure in China",
+      "description": "What happened?",
+      "severity": "informational",
+      "status": "resolved",
+      "startedAt": "2025-12-08T00:00:00.000Z",
+      "updatedAt": "2025-12-08T00:00:00.000Z",
+      "affectedServices": [
+        "Azure Resource Manager",
+        "Service management failures affecting Azure in China"
+      ],
+      "link": "https://azure.status.microsoft/en-us/status/history/#JSNV-FBZ"
+    },
+    {
+      "id": "2LGD-9VG",
+      "title": "Post Incident Review (PIR) – Thermal event impacting multiple services in AZ01 – West Europe",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident: https://aka.ms/air/2LGD-9VG",
+      "severity": "critical",
+      "status": "resolved",
+      "startedAt": "2025-11-05T00:00:00.000Z",
+      "updatedAt": "2025-11-05T00:00:00.000Z",
+      "affectedServices": [
+        "Thermal event impacting multiple services in AZ01",
+        "West Europe"
+      ],
+      "link": "https://aka.ms/air/2LGD-9VG"
+    }
+  ]
 }
