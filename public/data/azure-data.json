@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-20T19:22:12.950Z",
+  "fetchedAt": "2026-07-21T01:25:07.027Z",
   "statusFeed": [],
   "blogUpdates": [
     {
@@ -43,7 +43,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/"
     },
     {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=52372",
+      "id": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/",
       "title": "Proving application resilience on Azure with Chaos Studio",
       "summary": "Azure Chaos Studio helps organizations validate application resilience by simulating outages, failovers, network disruptions, and infrastructure failures before they impact production. The post Proving application resilience on Azure with Chaos Studio appeared first on Microsoft Azure Blog .",
       "publishedAt": "Wed, 01 Jul 2026 16:00:00 +0000",
