@@ -1,6 +1,37 @@
 {
-  "fetchedAt": "2026-07-23T13:20:57.968Z",
-  "statusFeed": [],
+  "fetchedAt": "2026-07-23T18:56:10.807Z",
+  "statusFeed": [
+    {
+      "title": "Issues connecting to resources in West US",
+      "description": "&lt;p&gt;Starting at approximately 14:44 UTC on 23 July 2026, customers may have experienced intermittent connectivity failures, increased latency, or difficulty accessing Azure and other Microsoft cloud (&lt;a href=\"https://status.cloud.microsoft/\" target=\"_blank\"&gt;https://status.cloud.microsoft/&lt;/a&gt;) services associated with the West US region. Customers whose traffic traverses affected West US network infrastructure may also experience downstream impact. Impacted services include:&lt;/p&gt;&lt;p&gt;Application Gateway, Application Insights, Azure AD B2C, Azure AI Search, Azure AI Speech, Azure API Management, Azure Bastion, Azure Bot Service, Azure Data Explorer, Azure Database for PostgreSQL, Azure Databricks, Azure Firewall, Azure Kubernetes Service (AKS), Azure Monitoring Essentials, Azure Virtual Desktop, Azure VMware Solution, ExpressRoute Circuits, ExpressRoute Gateways, Log Analytics, Microsoft Sentinel, Partner Center, Power BI Embedded, Virtual WAN, VPN Gateway&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Current Status:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We identified a recent change that was strongly correlated with the onset of impact. We have completed the rollback of this change and telemetry across services are continuing to show signs of recovery. Customer should be observing recovery at this time.&lt;/p&gt;&lt;p&gt;We are closely monitoring service health and downstream recovery and will provide additional updates as we validate restoration&lt;/p&gt;",
+      "link": "https://azure.status.microsoft/en-us/status/",
+      "pubDate": "Thu, 23 Jul 2026 16:29:09 Z",
+      "guid": "issues-connecting-to-resources-in-west-us",
+      "categories": [
+        "API Management",
+        "App Service",
+        "Application Gateway",
+        "Application Insights",
+        "Azure Active Directory B2C",
+        "Azure Data Explorer",
+        "Azure Databricks",
+        "Azure Firewall",
+        "Azure Kubernetes Service (AKS)",
+        "Azure Monitor",
+        "Azure Cognitive Search",
+        "Azure Sentinel",
+        "Azure VMware Solutions",
+        "Speech Services",
+        "ExpressRoute Circuits",
+        "ExpressRoute Gateways",
+        "Log Analytics",
+        "Network Infrastructure",
+        "Power BI Embedded",
+        "Virtual WAN",
+        "West US"
+      ]
+    }
+  ],
   "blogUpdates": [
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=52752",
