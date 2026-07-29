@@ -1,7 +1,15 @@
 {
-  "fetchedAt": "2026-07-29T08:15:44.849Z",
+  "fetchedAt": "2026-07-29T13:42:00.879Z",
   "statusFeed": [],
   "blogUpdates": [
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=52984",
+      "title": "What customers value most in Microsoft Databases—from reliability to AI readiness",
+      "summary": "Every day, customers trust Microsoft Databases to power their most critical applications, business processes, and AI-powered experiences. The post What customers value most in Microsoft Databases—from reliability to AI readiness appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Mon, 27 Jul 2026 15:00:00 +0000",
+      "category": "Databases",
+      "link": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/"
+    },
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=52857",
       "title": "AT&#038;T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD",
@@ -43,7 +51,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/external-key-management-for-azure-managed-hsm-is-now-in-public-preview/"
     },
     {
-      "id": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
+      "id": "https://azure.microsoft.com/en-us/blog/?p=52479",
       "title": "Meet Brain: The AI system behind Azure reliability",
       "summary": "Learn how Microsoft is building a digital twin of Azure Service Health and why it changes how hyperscale operates. The post Meet Brain: The AI system behind Azure reliability appeared first on Microsoft Azure Blog .",
       "publishedAt": "Thu, 02 Jul 2026 16:00:00 +0000",
@@ -73,14 +81,6 @@
       "publishedAt": "Mon, 29 Jun 2026 17:00:00 +0000",
       "category": "AI + machine learning",
       "link": "https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=52418",
-      "title": "The 2026 Agent Confidence Index: Where 300 builders see real momentum",
-      "summary": "At Microsoft, building trustworthy AI agents is as critical as building powerful ones. New research from the 2026 Agent Confidence Index shows where teams trust agents today—and why human judgment remains the defining skill in the age of AI. The post The 2026 Agent Confidence Index: Where 300 builde",
-      "publishedAt": "Mon, 29 Jun 2026 15:15:00 +0000",
-      "category": "AI + machine learning",
-      "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/"
     }
   ],
   "incidentHistory": [
