@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-05T13:38:39.155Z",
+  "fetchedAt": "2026-08-05T19:11:13.039Z",
   "statusFeed": [],
   "blogUpdates": [
     {
@@ -86,14 +86,17 @@
   "incidentHistory": [
     {
       "id": "ZJV6-SGG",
-      "title": "Preliminary Post Incident Review (PIR) - Issues connecting to resources in West US",
-      "description": "This is our Preliminary PIR to share what we know so far. After our internal retrospective is completed (generally within 14 days) we will publish a Final PIR with additional details.",
+      "title": "Post Incident Review (PIR) – Network connectivity – Issues accessing resources in West US",
+      "description": "Join either of our upcoming 'Azure Incident Retrospective' livestreams discussing this incident (to hear from our engineering leaders, and to get any questions answered by our experts) or watch a recording of the livestream (available the following week, on YouTube):",
       "severity": "informational",
       "status": "resolved",
       "startedAt": "2026-07-23T00:00:00.000Z",
       "updatedAt": "2026-07-23T00:00:00.000Z",
-      "affectedServices": [],
-      "link": "https://azure.status.microsoft/en-us/status/history/#ZJV6-SGG"
+      "affectedServices": [
+        "Network connectivity",
+        "Issues accessing resources in West US"
+      ],
+      "link": "https://aka.ms/air/ZJV6-SGG/1"
     },
     {
       "id": "LYXT-C1Z",
