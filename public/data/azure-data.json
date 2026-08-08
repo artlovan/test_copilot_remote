@@ -1,7 +1,15 @@
 {
-  "fetchedAt": "2026-08-08T12:22:19.965Z",
+  "fetchedAt": "2026-08-08T18:20:26.505Z",
   "statusFeed": [],
   "blogUpdates": [
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=52873",
+      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools",
+      "summary": "GitHub Copilot and Azure are helping organizations modernize legacy applications, reduce technical debt, and prepare for AI innovation. The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Thu, 06 Aug 2026 15:00:00 +0000",
+      "category": "Compute",
+      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/"
+    },
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=52984",
       "title": "What customers value most in Microsoft Databases—from reliability to AI readiness",
@@ -73,14 +81,6 @@
       "publishedAt": "Tue, 30 Jun 2026 16:00:00 +0000",
       "category": "Compute",
       "link": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=52421",
-      "title": "Claude in Microsoft Foundry is now generally available",
-      "summary": "Claude in Microsoft Foundry is now generally available, hosted on Azure, and running on NVIDIA GB300 Blackwell Ultra, giving teams a faster path from agent experimentation to production. The post Claude in Microsoft Foundry is now generally available appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Mon, 29 Jun 2026 17:00:00 +0000",
-      "category": "AI + machine learning",
-      "link": "https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/"
     }
   ],
   "incidentHistory": [
