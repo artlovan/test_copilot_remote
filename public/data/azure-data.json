@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-12T07:04:45.162Z",
+  "fetchedAt": "2026-08-12T12:40:34.365Z",
   "statusFeed": [],
   "blogUpdates": [
     {
@@ -63,15 +63,15 @@
       "title": "Meet Brain: The AI system behind Azure reliability",
       "summary": "Learn how Microsoft is building a digital twin of Azure Service Health and why it changes how hyperscale operates. The post Meet Brain: The AI system behind Azure reliability appeared first on Microsoft Azure Blog .",
       "publishedAt": "Thu, 02 Jul 2026 16:00:00 +0000",
-      "category": "AI + machine learning",
+      "category": "Internet of things",
       "link": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/"
     },
     {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=52372",
+      "id": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/",
       "title": "Proving application resilience on Azure with Chaos Studio",
       "summary": "Azure Chaos Studio helps organizations validate application resilience by simulating outages, failovers, network disruptions, and infrastructure failures before they impact production. The post Proving application resilience on Azure with Chaos Studio appeared first on Microsoft Azure Blog .",
       "publishedAt": "Wed, 01 Jul 2026 16:00:00 +0000",
-      "category": "AI + machine learning",
+      "category": "Analytics",
       "link": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/"
     },
     {
