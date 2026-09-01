@@ -1,7 +1,23 @@
 {
-  "fetchedAt": "2026-09-01T15:41:27.660Z",
+  "fetchedAt": "2026-09-01T20:15:14.654Z",
   "statusFeed": [],
   "blogUpdates": [
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=53561",
+      "title": "Introducing Azure Multicloud Interconnect for AWS",
+      "summary": "Azure Multicloud Interconnect helps simplify private connectivity between Microsoft Azure and AWS, enabling organizations to support multicloud and AI workloads with a more streamlined, cloud-native networking experience. Built on open interoperability standards, it helps reduce operational complexi",
+      "publishedAt": "Mon, 31 Aug 2026 18:00:00 +0000",
+      "category": "Networking",
+      "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=53557",
+      "title": "Inside Microsoft&#8217;s marketing team: Scaling expertise with AI",
+      "summary": "AI is helping organizations meet high expectations as markets change quickly and technology advances at a rapid pace. The post Inside Microsoft&#8217;s marketing team: Scaling expertise with AI appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Mon, 31 Aug 2026 16:00:00 +0000",
+      "category": "AI + machine learning",
+      "link": "https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai/"
+    },
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=53455",
       "title": "Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs",
@@ -65,22 +81,6 @@
       "publishedAt": "Thu, 23 Jul 2026 18:30:00 +0000",
       "category": "AI + machine learning",
       "link": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=52752",
-      "title": "Azure Databricks delivers proven business value",
-      "summary": "Microsoft Azure Databricks delivers the first-party advantage of Databricks on Microsoft—and for customers, that advantage shows up as real, measurable value. It is the same Databricks platform your teams already know, co-engineered with Microsoft and delivered as a native Azure service, so it fits ",
-      "publishedAt": "Wed, 15 Jul 2026 15:00:00 +0000",
-      "category": "AI + machine learning",
-      "link": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=52321",
-      "title": "GPT-5.6 now available in Microsoft Foundry",
-      "summary": "Introducing OpenAI's latest frontier model series, the Asia Pacific Data Zone, and product agent capabilities, all generally available in Microsoft Foundry. The post GPT-5.6 now available in Microsoft Foundry appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Thu, 09 Jul 2026 17:00:00 +0000",
-      "category": "AI + machine learning",
-      "link": "https://azure.microsoft.com/en-us/blog/gpt-5-6-now-available-in-microsoft-foundry/"
     }
   ],
   "incidentHistory": [
