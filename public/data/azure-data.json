@@ -1,31 +1,7 @@
 {
-  "fetchedAt": "2026-09-06T14:32:10.823Z",
+  "fetchedAt": "2026-09-06T19:42:12.244Z",
   "statusFeed": [],
   "blogUpdates": [
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=53628",
-      "title": "Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment",
-      "summary": "The recognition for Microsoft over the past couple of weeks comes down to models, infrastructure, data, applications, and developer tools working as one system when AI moves into production. The post Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment appe",
-      "publishedAt": "Thu, 03 Sep 2026 19:00:00 +0000",
-      "category": "AI + machine learning",
-      "link": "https://azure.microsoft.com/en-us/blog/enterprise-ai-transformation-relies-on-the-end-to-end-platform-azure-was-built-for-this-moment/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=53730",
-      "title": "GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry",
-      "summary": "GPT-6 Astra, OpenAI's newest frontier model, begins rolling out today through the Microsoft Foundry Limited Access Program, with availability expanding to participating customers over the coming days. The post GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry ",
-      "publishedAt": "Thu, 03 Sep 2026 18:15:00 +0000",
-      "category": "AI + machine learning",
-      "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=53653",
-      "title": "How Microsoft&#8217;s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop",
-      "summary": "Learn how Microsoft used Azure Arc and Azure Virtual Desktop to simplify hybrid security operations, improve visibility, and scale globally. The post How Microsoft&#8217;s Physical Security Engineering Team scaled hybrid operations with Azure Arc and Azure Virtual Desktop appeared first on Microsoft",
-      "publishedAt": "Thu, 03 Sep 2026 15:00:00 +0000",
-      "category": "Compute",
-      "link": "https://azure.microsoft.com/en-us/blog/how-microsofts-physical-security-engineering-team-scaled-hybrid-operations-with-azure-arc-and-azure-virtual-desktop/"
-    },
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=53585",
       "title": "The Economics of Agent Optimization: Context engineering for enterprise AI agents",
@@ -81,7 +57,174 @@
       "publishedAt": "Mon, 17 Aug 2026 15:00:00 +0000",
       "category": "AI + machine learning",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/",
+      "title": "The Economics of Agent Optimization: From pilots to measurable returns",
+      "summary": "Learn how AI cost management helps organizations move from AI pilots to measurable ROI through greater visibility, governance, and optimization. The post The Economics of Agent Optimization: From pilots to measurable returns appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Wed, 12 Aug 2026 16:00:00 +0000",
+      "category": "AI + machine learning",
+      "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=52873",
+      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools",
+      "summary": "GitHub Copilot and Azure are helping organizations modernize legacy applications, reduce technical debt, and prepare for AI innovation. The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for AI-Augmented Code Modernization Tools appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Thu, 06 Aug 2026 15:00:00 +0000",
+      "category": "Compute",
+      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=52984",
+      "title": "What customers value most in Microsoft Databases—from reliability to AI readiness",
+      "summary": "Every day, customers trust Microsoft Databases to power their most critical applications, business processes, and AI-powered experiences. The post What customers value most in Microsoft Databases—from reliability to AI readiness appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Mon, 27 Jul 2026 15:00:00 +0000",
+      "category": "Databases",
+      "link": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/"
     }
   ],
-  "incidentHistory": []
+  "incidentHistory": [
+    {
+      "id": "ZJV6-SGG",
+      "title": "Post Incident Review (PIR) – Network connectivity – Issues accessing resources in West US",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident: https://aka.ms/air/ZJV6-SGG",
+      "severity": "informational",
+      "status": "resolved",
+      "startedAt": "2026-07-23T00:00:00.000Z",
+      "updatedAt": "2026-07-23T00:00:00.000Z",
+      "affectedServices": [
+        "Network connectivity",
+        "Issues accessing resources in West US"
+      ],
+      "link": "https://aka.ms/air/ZJV6-SGG"
+    },
+    {
+      "id": "LYXT-C1Z",
+      "title": "Post Incident Review (PIR) – Azure OpenAI Service – Latency and intermittent failures in multiple regions",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident: https://aka.ms/air/LYXT-C1Z",
+      "severity": "critical",
+      "status": "resolved",
+      "startedAt": "2026-05-29T00:00:00.000Z",
+      "updatedAt": "2026-05-29T00:00:00.000Z",
+      "affectedServices": [
+        "Azure OpenAI Service",
+        "Latency and intermittent failures in multiple regions"
+      ],
+      "link": "https://aka.ms/air/LYXT-C1Z"
+    },
+    {
+      "id": "GHRP-84G",
+      "title": "Post Incident Review (PIR) – Multiple services – Power/cooling issues in West US 2",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident: https://aka.ms/air/GHRP-84G",
+      "severity": "critical",
+      "status": "resolved",
+      "startedAt": "2026-05-29T00:00:00.000Z",
+      "updatedAt": "2026-05-29T00:00:00.000Z",
+      "affectedServices": [
+        "Multiple services",
+        "Power/cooling issues in West US 2"
+      ],
+      "link": "https://aka.ms/air/GHRP-84G"
+    },
+    {
+      "id": "5GP8-W0G",
+      "title": "Post Incident Review (PIR) – Multiple services – Control plane issues in East US",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident: https://aka.ms/air/5GP8-W0G",
+      "severity": "critical",
+      "status": "resolved",
+      "startedAt": "2026-04-24T00:00:00.000Z",
+      "updatedAt": "2026-04-24T00:00:00.000Z",
+      "affectedServices": [
+        "Multiple services",
+        "Control plane issues in East US"
+      ],
+      "link": "https://aka.ms/air/5GP8-W0G"
+    },
+    {
+      "id": "8GCS-858",
+      "title": "Post Incident Review (PIR) – Azure OpenAI – GPT-5.2 availability degradation in 7 regions",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident:&nbsp; https://aka.ms/air/8GCS-858",
+      "severity": "warning",
+      "status": "resolved",
+      "startedAt": "2026-03-09T00:00:00.000Z",
+      "updatedAt": "2026-03-09T00:00:00.000Z",
+      "affectedServices": [
+        "Azure OpenAI",
+        "GPT-5.2 availability degradation in 7 regions"
+      ],
+      "link": "https://aka.ms/air/8GCS-858"
+    },
+    {
+      "id": "_SVS-5_G",
+      "title": "Post Incident Review (PIR) – Power event impacting multiple services – West US",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident: https://aka.ms/air/_SVS-5_G",
+      "severity": "critical",
+      "status": "resolved",
+      "startedAt": "2026-02-07T00:00:00.000Z",
+      "updatedAt": "2026-02-07T00:00:00.000Z",
+      "affectedServices": [
+        "Power event impacting multiple services",
+        "West US"
+      ],
+      "link": "https://aka.ms/air/_SVS-5_G"
+    },
+    {
+      "id": "FNJ8-VQZ",
+      "title": "Post Incident Review (PIR) – Virtual Machines, Managed identities for Azure resources, and dependent services – Service management issues in multiple regions",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident: https://aka.ms/air/FNJ8-VQZ",
+      "severity": "critical",
+      "status": "resolved",
+      "startedAt": "2026-02-02T00:00:00.000Z",
+      "updatedAt": "2026-02-02T00:00:00.000Z",
+      "affectedServices": [
+        "Virtual Machines",
+        "Managed identities for Azure resources",
+        "and dependent services",
+        "Service management issues in multiple regions"
+      ],
+      "link": "https://aka.ms/air/FNJ8-VQZ"
+    },
+    {
+      "id": "FV31-PQG",
+      "title": "Post Incident Review (PIR) – Entra Privileged Identity Management – Customers experiencing API failures",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident: https://aka.ms/air/FV31-PQG",
+      "severity": "informational",
+      "status": "resolved",
+      "startedAt": "2025-12-22T00:00:00.000Z",
+      "updatedAt": "2025-12-22T00:00:00.000Z",
+      "affectedServices": [
+        "Entra Privileged Identity Management",
+        "Customers experiencing API failures"
+      ],
+      "link": "https://aka.ms/air/FV31-PQG"
+    },
+    {
+      "id": "ML7_-DWG",
+      "title": "Post Incident Review (PIR) – Azure Resource Manager – Service management failures affecting Azure Government",
+      "description": "What happened?",
+      "severity": "informational",
+      "status": "resolved",
+      "startedAt": "2025-12-08T00:00:00.000Z",
+      "updatedAt": "2025-12-08T00:00:00.000Z",
+      "affectedServices": [
+        "Azure Resource Manager",
+        "Service management failures affecting Azure Government"
+      ],
+      "link": "https://azure.status.microsoft/en-us/status/history/#ML7_-DWG"
+    },
+    {
+      "id": "JSNV-FBZ",
+      "title": "Post Incident Review (PIR) – Azure Resource Manager – Service management failures affecting Azure in China",
+      "description": "What happened?",
+      "severity": "informational",
+      "status": "resolved",
+      "startedAt": "2025-12-08T00:00:00.000Z",
+      "updatedAt": "2025-12-08T00:00:00.000Z",
+      "affectedServices": [
+        "Azure Resource Manager",
+        "Service management failures affecting Azure in China"
+      ],
+      "link": "https://azure.status.microsoft/en-us/status/history/#JSNV-FBZ"
+    }
+  ]
 }
