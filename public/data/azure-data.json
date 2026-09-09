@@ -1,7 +1,15 @@
 {
-  "fetchedAt": "2026-09-09T15:28:11.690Z",
+  "fetchedAt": "2026-09-09T20:09:03.838Z",
   "statusFeed": [],
   "blogUpdates": [
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=53782",
+      "title": "Beyond the benchmark: How an adaptive approach drives scientific discovery",
+      "summary": "For research and development (R&#38;D) organizations, the promise of agentic AI is not a better one-time answer. It is a new way to explore complex scientific and engineering problems: pursuing multiple hypotheses, validating them against evidence, learning from what does not work, and adapting thei",
+      "publishedAt": "Tue, 08 Sep 2026 20:00:00 +0000",
+      "category": "AI + machine learning",
+      "link": "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/"
+    },
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=53628",
       "title": "Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment",
@@ -73,14 +81,6 @@
       "publishedAt": "Tue, 25 Aug 2026 16:00:00 +0000",
       "category": "Networking",
       "link": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=53285",
-      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms",
-      "summary": "Cloud-native platforms are becoming the foundation for AI transformation. Discover how Microsoft's Azure application platform helps organizations modernize, innovate, and operate AI-powered applications at scale. The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native",
-      "publishedAt": "Mon, 17 Aug 2026 15:00:00 +0000",
-      "category": "AI + machine learning",
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/"
     }
   ],
   "incidentHistory": [
