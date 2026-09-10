@@ -1,7 +1,15 @@
 {
-  "fetchedAt": "2026-09-10T10:10:59.099Z",
+  "fetchedAt": "2026-09-10T15:23:44.057Z",
   "statusFeed": [],
   "blogUpdates": [
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=53717",
+      "title": "Two zones or three? A design framework for zone-resilient Azure workloads",
+      "summary": "Zone resiliency isn't a single number you apply to a whole workload. The useful question isn't “how many zones?” but “how many zones does each component need to survive the loss of one?” Decide zone patterns component by component, use service-managed zone redundancy wherever it fits, and reserve th",
+      "publishedAt": "Wed, 09 Sep 2026 18:00:00 +0000",
+      "category": "Compute",
+      "link": "https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/"
+    },
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=53782",
       "title": "Beyond the benchmark: How an adaptive approach drives scientific discovery",
@@ -59,7 +67,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai/"
     },
     {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=53455",
+      "id": "https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/",
       "title": "Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs",
       "summary": "Compare managed PostgreSQL vs. self-hosted PostgreSQL across cost, control, security, resilience, scalability, and operational effort. The post Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs appeared first on Microsoft Azure Blog .",
       "publishedAt": "Thu, 27 Aug 2026 17:00:00 +0000",
@@ -73,15 +81,150 @@
       "publishedAt": "Wed, 26 Aug 2026 16:00:00 +0000",
       "category": "AI + machine learning",
       "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-four-ways-to-lower-the-cost/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=53462",
-      "title": "The patch window is collapsing: Why security needs a new control plane",
-      "summary": "Organizations need protection that operates in the gap between discovery and remediation. The post The patch window is collapsing: Why security needs a new control plane appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Tue, 25 Aug 2026 16:00:00 +0000",
-      "category": "Networking",
-      "link": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/"
     }
   ],
-  "incidentHistory": []
+  "incidentHistory": [
+    {
+      "id": "ZJV6-SGG",
+      "title": "Post Incident Review (PIR) – Network connectivity – Issues accessing resources in West US",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident: https://aka.ms/air/ZJV6-SGG",
+      "severity": "informational",
+      "status": "resolved",
+      "startedAt": "2026-07-23T00:00:00.000Z",
+      "updatedAt": "2026-07-23T00:00:00.000Z",
+      "affectedServices": [
+        "Network connectivity",
+        "Issues accessing resources in West US"
+      ],
+      "link": "https://aka.ms/air/ZJV6-SGG"
+    },
+    {
+      "id": "LYXT-C1Z",
+      "title": "Post Incident Review (PIR) – Azure OpenAI Service – Latency and intermittent failures in multiple regions",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident: https://aka.ms/air/LYXT-C1Z",
+      "severity": "critical",
+      "status": "resolved",
+      "startedAt": "2026-05-29T00:00:00.000Z",
+      "updatedAt": "2026-05-29T00:00:00.000Z",
+      "affectedServices": [
+        "Azure OpenAI Service",
+        "Latency and intermittent failures in multiple regions"
+      ],
+      "link": "https://aka.ms/air/LYXT-C1Z"
+    },
+    {
+      "id": "GHRP-84G",
+      "title": "Post Incident Review (PIR) – Multiple services – Power/cooling issues in West US 2",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident: https://aka.ms/air/GHRP-84G",
+      "severity": "critical",
+      "status": "resolved",
+      "startedAt": "2026-05-29T00:00:00.000Z",
+      "updatedAt": "2026-05-29T00:00:00.000Z",
+      "affectedServices": [
+        "Multiple services",
+        "Power/cooling issues in West US 2"
+      ],
+      "link": "https://aka.ms/air/GHRP-84G"
+    },
+    {
+      "id": "5GP8-W0G",
+      "title": "Post Incident Review (PIR) – Multiple services – Control plane issues in East US",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident: https://aka.ms/air/5GP8-W0G",
+      "severity": "critical",
+      "status": "resolved",
+      "startedAt": "2026-04-24T00:00:00.000Z",
+      "updatedAt": "2026-04-24T00:00:00.000Z",
+      "affectedServices": [
+        "Multiple services",
+        "Control plane issues in East US"
+      ],
+      "link": "https://aka.ms/air/5GP8-W0G"
+    },
+    {
+      "id": "8GCS-858",
+      "title": "Post Incident Review (PIR) – Azure OpenAI – GPT-5.2 availability degradation in 7 regions",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident:&nbsp; https://aka.ms/air/8GCS-858",
+      "severity": "warning",
+      "status": "resolved",
+      "startedAt": "2026-03-09T00:00:00.000Z",
+      "updatedAt": "2026-03-09T00:00:00.000Z",
+      "affectedServices": [
+        "Azure OpenAI",
+        "GPT-5.2 availability degradation in 7 regions"
+      ],
+      "link": "https://aka.ms/air/8GCS-858"
+    },
+    {
+      "id": "_SVS-5_G",
+      "title": "Post Incident Review (PIR) – Power event impacting multiple services – West US",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident: https://aka.ms/air/_SVS-5_G",
+      "severity": "critical",
+      "status": "resolved",
+      "startedAt": "2026-02-07T00:00:00.000Z",
+      "updatedAt": "2026-02-07T00:00:00.000Z",
+      "affectedServices": [
+        "Power event impacting multiple services",
+        "West US"
+      ],
+      "link": "https://aka.ms/air/_SVS-5_G"
+    },
+    {
+      "id": "FNJ8-VQZ",
+      "title": "Post Incident Review (PIR) – Virtual Machines, Managed identities for Azure resources, and dependent services – Service management issues in multiple regions",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident: https://aka.ms/air/FNJ8-VQZ",
+      "severity": "critical",
+      "status": "resolved",
+      "startedAt": "2026-02-02T00:00:00.000Z",
+      "updatedAt": "2026-02-02T00:00:00.000Z",
+      "affectedServices": [
+        "Virtual Machines",
+        "Managed identities for Azure resources",
+        "and dependent services",
+        "Service management issues in multiple regions"
+      ],
+      "link": "https://aka.ms/air/FNJ8-VQZ"
+    },
+    {
+      "id": "FV31-PQG",
+      "title": "Post Incident Review (PIR) – Entra Privileged Identity Management – Customers experiencing API failures",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident: https://aka.ms/air/FV31-PQG",
+      "severity": "informational",
+      "status": "resolved",
+      "startedAt": "2025-12-22T00:00:00.000Z",
+      "updatedAt": "2025-12-22T00:00:00.000Z",
+      "affectedServices": [
+        "Entra Privileged Identity Management",
+        "Customers experiencing API failures"
+      ],
+      "link": "https://aka.ms/air/FV31-PQG"
+    },
+    {
+      "id": "ML7_-DWG",
+      "title": "Post Incident Review (PIR) – Azure Resource Manager – Service management failures affecting Azure Government",
+      "description": "What happened?",
+      "severity": "informational",
+      "status": "resolved",
+      "startedAt": "2025-12-08T00:00:00.000Z",
+      "updatedAt": "2025-12-08T00:00:00.000Z",
+      "affectedServices": [
+        "Azure Resource Manager",
+        "Service management failures affecting Azure Government"
+      ],
+      "link": "https://azure.status.microsoft/en-us/status/history/#ML7_-DWG"
+    },
+    {
+      "id": "JSNV-FBZ",
+      "title": "Post Incident Review (PIR) – Azure Resource Manager – Service management failures affecting Azure in China",
+      "description": "What happened?",
+      "severity": "informational",
+      "status": "resolved",
+      "startedAt": "2025-12-08T00:00:00.000Z",
+      "updatedAt": "2025-12-08T00:00:00.000Z",
+      "affectedServices": [
+        "Azure Resource Manager",
+        "Service management failures affecting Azure in China"
+      ],
+      "link": "https://azure.status.microsoft/en-us/status/history/#JSNV-FBZ"
+    }
+  ]
 }
