@@ -1,47 +1,7 @@
 {
-  "fetchedAt": "2026-09-12T19:49:37.936Z",
+  "fetchedAt": "2026-09-13T01:50:15.180Z",
   "statusFeed": [],
   "blogUpdates": [
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=53828",
-      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management",
-      "summary": "Microsoft was named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management. Discover how AKS, Azure Arc, and Azure Container Apps help organizations run AI and hybrid workloads at scale. The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management a",
-      "publishedAt": "Thu, 10 Sep 2026 21:00:00 +0000",
-      "category": "Compute",
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=53839",
-      "title": "The Economics of Agent Optimization: How AI agent governance controls cost and proves ROI",
-      "summary": "This blog post is the fourth and final installment of The Economics of Agent Optimization, which shares the strategies, capabilities, and proof points that can help you optimize agent costs and run AI as a managed investment system on Microsoft Foundry. The post The Economics of Agent Optimization: ",
-      "publishedAt": "Thu, 10 Sep 2026 17:00:00 +0000",
-      "category": "AI + machine learning",
-      "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=53814",
-      "title": "The future of infrastructure resiliency starts with modernization",
-      "summary": "Modernization only succeeds when organizations have confidence that their infrastructure can withstand disruption and continue supporting critical operations. The post The future of infrastructure resiliency starts with modernization appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Thu, 10 Sep 2026 16:00:00 +0000",
-      "category": "Analytics",
-      "link": "https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=53717",
-      "title": "Two zones or three? A design framework for zone-resilient Azure workloads",
-      "summary": "Zone resiliency isn't a single number you apply to a whole workload. The useful question isn't “how many zones?” but “how many zones does each component need to survive the loss of one?” Decide zone patterns component by component, use service-managed zone redundancy wherever it fits, and reserve th",
-      "publishedAt": "Wed, 09 Sep 2026 18:00:00 +0000",
-      "category": "Compute",
-      "link": "https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=53782",
-      "title": "Beyond the benchmark: How an adaptive approach drives scientific discovery",
-      "summary": "For research and development (R&#38;D) organizations, the promise of agentic AI is not a better one-time answer. It is a new way to explore complex scientific and engineering problems: pursuing multiple hypotheses, validating them against evidence, learning from what does not work, and adapting thei",
-      "publishedAt": "Tue, 08 Sep 2026 20:00:00 +0000",
-      "category": "AI + machine learning",
-      "link": "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/"
-    },
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=53628",
       "title": "Enterprise AI transformation relies on the end-to-end platform: Azure was built for this moment",
@@ -81,6 +41,46 @@
       "publishedAt": "Mon, 31 Aug 2026 18:00:00 +0000",
       "category": "Networking",
       "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=53557",
+      "title": "Inside Microsoft&#8217;s marketing team: Scaling expertise with AI",
+      "summary": "AI is helping organizations meet high expectations as markets change quickly and technology advances at a rapid pace. The post Inside Microsoft&#8217;s marketing team: Scaling expertise with AI appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Mon, 31 Aug 2026 16:00:00 +0000",
+      "category": "AI + machine learning",
+      "link": "https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai/"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=53455",
+      "title": "Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs",
+      "summary": "Compare managed PostgreSQL vs. self-hosted PostgreSQL across cost, control, security, resilience, scalability, and operational effort. The post Managed PostgreSQL vs. self-hosted PostgreSQL: Key benefits and trade-offs appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Thu, 27 Aug 2026 17:00:00 +0000",
+      "category": "Compute",
+      "link": "https://azure.microsoft.com/en-us/blog/managed-postgresql-vs-self-hosted-postgresql-key-benefits-and-trade-offs/"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=53414",
+      "title": "The Economics of Agent Optimization: Four ways to lower the cost",
+      "summary": "Microsoft Foundry gives you four levers that act on every request, before a single line of agent logic changes. The post The Economics of Agent Optimization: Four ways to lower the cost appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Wed, 26 Aug 2026 16:00:00 +0000",
+      "category": "AI + machine learning",
+      "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-four-ways-to-lower-the-cost/"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=53462",
+      "title": "The patch window is collapsing: Why security needs a new control plane",
+      "summary": "Organizations need protection that operates in the gap between discovery and remediation. The post The patch window is collapsing: Why security needs a new control plane appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Tue, 25 Aug 2026 16:00:00 +0000",
+      "category": "Networking",
+      "link": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=53285",
+      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native Application Platforms",
+      "summary": "Cloud-native platforms are becoming the foundation for AI transformation. Discover how Microsoft's Azure application platform helps organizations modernize, innovate, and operate AI-powered applications at scale. The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud-Native",
+      "publishedAt": "Mon, 17 Aug 2026 15:00:00 +0000",
+      "category": "AI + machine learning",
+      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-cloud-native-application-platforms/"
     }
   ],
   "incidentHistory": [
