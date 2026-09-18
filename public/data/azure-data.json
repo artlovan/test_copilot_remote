@@ -1,7 +1,15 @@
 {
-  "fetchedAt": "2026-09-18T10:11:05.704Z",
+  "fetchedAt": "2026-09-18T15:21:30.391Z",
   "statusFeed": [],
   "blogUpdates": [
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=53934",
+      "title": "Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure",
+      "summary": "Gartner highlighted Microsoft’s unified single-product architecture, flexibility across hyperconverged and disaggregated architectures, and more. The post Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure appeared first on Microsoft Azure Blo",
+      "publishedAt": "Wed, 16 Sep 2026 16:00:00 +0000",
+      "category": "Uncategorized",
+      "link": "https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/"
+    },
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=53828",
       "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management",
@@ -73,14 +81,6 @@
       "publishedAt": "Wed, 02 Sep 2026 16:00:00 +0000",
       "category": "AI + machine learning",
       "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=53561",
-      "title": "Introducing Azure Multicloud Interconnect for AWS",
-      "summary": "Azure Multicloud Interconnect helps simplify private connectivity between Microsoft Azure and AWS, enabling organizations to support multicloud and AI workloads with a more streamlined, cloud-native networking experience. Built on open interoperability standards, it helps reduce operational complexi",
-      "publishedAt": "Mon, 31 Aug 2026 18:00:00 +0000",
-      "category": "Networking",
-      "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/"
     }
   ],
   "incidentHistory": [
