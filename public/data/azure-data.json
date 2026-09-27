@@ -1,7 +1,15 @@
 {
-  "fetchedAt": "2026-09-27T15:56:00.496Z",
+  "fetchedAt": "2026-09-27T20:32:55.119Z",
   "statusFeed": [],
   "blogUpdates": [
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=54013",
+      "title": "Ship agents faster with expanded model choice, voice agents, and continuous optimization",
+      "summary": "The best model for your business will keep changing. Adopting it should move your business forward, not send your team back to rebuild the architecture around it. The post Ship agents faster with expanded model choice, voice agents, and continuous optimization appeared first on Microsoft Azure Blog ",
+      "publishedAt": "Thu, 24 Sep 2026 18:00:00 +0000",
+      "category": "AI + machine learning",
+      "link": "https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/"
+    },
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=53956",
       "title": "Your architecture diagram is not your resilience",
@@ -73,14 +81,6 @@
       "publishedAt": "Wed, 09 Sep 2026 18:00:00 +0000",
       "category": "Compute",
       "link": "https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=53782",
-      "title": "Beyond the benchmark: How an adaptive approach drives scientific discovery",
-      "summary": "For research and development (R&#38;D) organizations, the promise of agentic AI is not a better one-time answer. It is a new way to explore complex scientific and engineering problems: pursuing multiple hypotheses, validating them against evidence, learning from what does not work, and adapting thei",
-      "publishedAt": "Tue, 08 Sep 2026 20:00:00 +0000",
-      "category": "AI + machine learning",
-      "link": "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/"
     }
   ],
   "incidentHistory": [
