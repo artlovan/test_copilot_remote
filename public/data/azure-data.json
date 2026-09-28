@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-27T20:32:55.119Z",
+  "fetchedAt": "2026-09-28T02:21:30.473Z",
   "statusFeed": [],
   "blogUpdates": [
     {
@@ -35,7 +35,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/"
     },
     {
-      "id": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-5-5-comes-to-microsoft-foundry-for-long-running-coding-and-knowledge/4558051",
+      "id": "https://azure.microsoft.com/en-us/blog/?p=54023",
       "title": "Claude Opus 5.5 comes to Microsoft Foundry for long-running coding and knowledge work",
       "summary": "AI models are increasingly taking on work that extends far beyond a single prompt: building a feature across a codebase, investigating a complex issue, synthesizing hundreds of pages of information, or working through a multi-step business process. The post Claude Opus 5.5 comes to Microsoft Foundry",
       "publishedAt": "Tue, 22 Sep 2026 17:00:25 +0000",
