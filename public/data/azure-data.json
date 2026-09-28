@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-28T02:21:30.473Z",
+  "fetchedAt": "2026-09-28T12:14:12.361Z",
   "statusFeed": [],
   "blogUpdates": [
     {
@@ -27,7 +27,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/"
     },
     {
-      "id": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/",
+      "id": "https://azure.microsoft.com/en-us/blog/?p=54001",
       "title": "GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry",
       "summary": "Explore GPT-6 Astra, Sol, and GPT-6 Luna in Microsoft Foundry, with scalable model options for production AI agents, complex workflows, and high-volume tasks. The post GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry appeared first on Microsoft Azure Blog .",
       "publishedAt": "Tue, 22 Sep 2026 18:30:00 +0000",
