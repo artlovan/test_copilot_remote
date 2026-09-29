@@ -1,17 +1,6 @@
 {
-  "fetchedAt": "2026-09-29T17:10:43.736Z",
-  "statusFeed": [
-    {
-      "title": "Observing improvements - Intermittent request failures and increased latency across Azure OpenAI, Azure AI Foundry, and Cognitive Services",
-      "description": "&lt;p&gt;&lt;strong&gt;Impact Statement:&lt;/strong&gt; Starting at 10:00 UTC on 29 September 2026, a subset of customers using OpenAI Service, Foundry Agent Service, Foundry Models, and Cognitive Services, in Sweden Central may experience intermittent request failures, increased latency, and HTTP 5XX error codes when submitting requests to affected models and APIs hosted in this region.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Current Status:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Currently we are monitoring improvements in the overall experience. Initial findings indicate that a backend service which is relied on to retrieve metadata information when managing requests for this region, was experiencing timeouts when reading from dependent database and caching layers. As a result, requests that depend on these processes were delayed or failed intermittently.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Queued requests are being processed. We are continuing to investigate the health of supporting platform infrastructure or system processes that may impact these requests.&lt;/p&gt;&lt;p&gt;The next update will be provided within 60 minutes, or as events warrant.&lt;/p&gt;",
-      "link": "https://azure.status.microsoft/en-us/status/",
-      "pubDate": "Tue, 29 Sep 2026 10:00:00 Z",
-      "guid": "observing-improvements-intermittent-request-failures-and-increased-latency-across-azure-openai-azure-ai-foundry-and-cognitive-services",
-      "categories": [
-        "Cognitive Services"
-      ]
-    }
-  ],
+  "fetchedAt": "2026-09-29T21:36:14.467Z",
+  "statusFeed": [],
   "blogUpdates": [
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=54069",
@@ -95,6 +84,17 @@
     }
   ],
   "incidentHistory": [
+    {
+      "id": "7QL5-Z50",
+      "title": "Mitigated - Intermittent request failures and increased latency across Azure OpenAI, Azure AI Foundry, and Cognitive Services",
+      "description": "What happened?",
+      "severity": "informational",
+      "status": "resolved",
+      "startedAt": "2026-09-29T00:00:00.000Z",
+      "updatedAt": "2026-09-29T00:00:00.000Z",
+      "affectedServices": [],
+      "link": "https://azure.status.microsoft/en-us/status/history/#7QL5-Z50"
+    },
     {
       "id": "ZJV6-SGG",
       "title": "Post Incident Review (PIR) – Network connectivity – Issues accessing resources in West US",
@@ -222,20 +222,6 @@
         "Service management failures affecting Azure Government"
       ],
       "link": "https://azure.status.microsoft/en-us/status/history/#ML7_-DWG"
-    },
-    {
-      "id": "JSNV-FBZ",
-      "title": "Post Incident Review (PIR) – Azure Resource Manager – Service management failures affecting Azure in China",
-      "description": "What happened?",
-      "severity": "informational",
-      "status": "resolved",
-      "startedAt": "2025-12-08T00:00:00.000Z",
-      "updatedAt": "2025-12-08T00:00:00.000Z",
-      "affectedServices": [
-        "Azure Resource Manager",
-        "Service management failures affecting Azure in China"
-      ],
-      "link": "https://azure.status.microsoft/en-us/status/history/#JSNV-FBZ"
     }
   ]
 }
