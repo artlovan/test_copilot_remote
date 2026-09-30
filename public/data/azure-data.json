@@ -1,7 +1,15 @@
 {
-  "fetchedAt": "2026-09-29T21:36:14.467Z",
+  "fetchedAt": "2026-09-30T02:47:28.284Z",
   "statusFeed": [],
   "blogUpdates": [
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=54081",
+      "title": "FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents",
+      "summary": "Microsoft Fabric and SQL innovations announced at FabCon and SQLCon Barcelona 2026 help organizations build trusted data foundations for AI. The post FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Tue, 29 Sep 2026 06:30:00 +0000",
+      "category": "AI + machine learning",
+      "link": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/"
+    },
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=54069",
       "title": "Enhancing Microsoft Azure Virtual Machine lifecycle",
@@ -73,14 +81,6 @@
       "publishedAt": "Thu, 10 Sep 2026 17:00:00 +0000",
       "category": "AI + machine learning",
       "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-how-ai-agent-governance-controls-cost-and-proves-roi/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=53814",
-      "title": "The future of infrastructure resiliency starts with modernization",
-      "summary": "Modernization only succeeds when organizations have confidence that their infrastructure can withstand disruption and continue supporting critical operations. The post The future of infrastructure resiliency starts with modernization appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Thu, 10 Sep 2026 16:00:00 +0000",
-      "category": "Analytics",
-      "link": "https://azure.microsoft.com/en-us/blog/the-future-of-infrastructure-resiliency-starts-with-modernization/"
     }
   ],
   "incidentHistory": [
