@@ -1,7 +1,15 @@
 {
-  "fetchedAt": "2026-10-01T11:58:57.878Z",
+  "fetchedAt": "2026-10-01T18:03:23.452Z",
   "statusFeed": [],
   "blogUpdates": [
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=54217",
+      "title": "Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware",
+      "summary": "Microsoft is advancing Azure cloud infrastructure with more efficient systems and Circular Centers that extend the useful life of datacenter hardware. The post Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Wed, 30 Sep 2026 15:00:00 +0000",
+      "category": "Compute",
+      "link": "https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/"
+    },
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=54298",
       "title": "SQL Server on Azure Local is now generally available",
@@ -73,14 +81,6 @@
       "publishedAt": "Wed, 16 Sep 2026 16:00:00 +0000",
       "category": "Uncategorized",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=53828",
-      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management",
-      "summary": "Microsoft was named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management. Discover how AKS, Azure Arc, and Azure Container Apps help organizations run AI and hybrid workloads at scale. The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management a",
-      "publishedAt": "Thu, 10 Sep 2026 21:00:00 +0000",
-      "category": "Compute",
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/"
     }
   ],
   "incidentHistory": [
