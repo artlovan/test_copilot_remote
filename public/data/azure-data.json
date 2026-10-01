@@ -1,15 +1,7 @@
 {
-  "fetchedAt": "2026-10-01T02:53:20.433Z",
+  "fetchedAt": "2026-10-01T11:58:57.878Z",
   "statusFeed": [],
   "blogUpdates": [
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=54217",
-      "title": "Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware",
-      "summary": "Microsoft is advancing Azure cloud infrastructure with more efficient systems and Circular Centers that extend the useful life of datacenter hardware. The post Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Wed, 30 Sep 2026 15:00:00 +0000",
-      "category": "Compute",
-      "link": "https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/"
-    },
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=54298",
       "title": "SQL Server on Azure Local is now generally available",
@@ -81,9 +73,28 @@
       "publishedAt": "Wed, 16 Sep 2026 16:00:00 +0000",
       "category": "Uncategorized",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=53828",
+      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management",
+      "summary": "Microsoft was named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management. Discover how AKS, Azure Arc, and Azure Container Apps help organizations run AI and hybrid workloads at scale. The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Container Management a",
+      "publishedAt": "Thu, 10 Sep 2026 21:00:00 +0000",
+      "category": "Compute",
+      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-container-management/"
     }
   ],
   "incidentHistory": [
+    {
+      "id": "7Q30-010",
+      "title": "Mitigated- Multiple services experiencing connectivity issues in multiple regions",
+      "description": "Incorrect Region: correction: Impacted region(s) within a previous communication has been corrected.",
+      "severity": "critical",
+      "status": "resolved",
+      "startedAt": "2026-09-30T00:00:00.000Z",
+      "updatedAt": "2026-09-30T00:00:00.000Z",
+      "affectedServices": [],
+      "link": "https://azure.status.microsoft/en-us/status/history/#7Q30-010"
+    },
     {
       "id": "7QL5-Z50",
       "title": "Mitigated - Intermittent request failures and increased latency across Azure OpenAI, Azure AI Foundry, and Cognitive Services",
@@ -208,20 +219,6 @@
         "Customers experiencing API failures"
       ],
       "link": "https://aka.ms/air/FV31-PQG"
-    },
-    {
-      "id": "ML7_-DWG",
-      "title": "Post Incident Review (PIR) – Azure Resource Manager – Service management failures affecting Azure Government",
-      "description": "What happened?",
-      "severity": "informational",
-      "status": "resolved",
-      "startedAt": "2025-12-08T00:00:00.000Z",
-      "updatedAt": "2025-12-08T00:00:00.000Z",
-      "affectedServices": [
-        "Azure Resource Manager",
-        "Service management failures affecting Azure Government"
-      ],
-      "link": "https://azure.status.microsoft/en-us/status/history/#ML7_-DWG"
     }
   ]
 }
