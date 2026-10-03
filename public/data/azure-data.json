@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-03T15:20:52.022Z",
+  "fetchedAt": "2026-10-03T20:18:26.530Z",
   "statusFeed": [],
   "blogUpdates": [
     {
@@ -27,7 +27,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/"
     },
     {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=54069",
+      "id": "https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/",
       "title": "Enhancing Microsoft Azure Virtual Machine lifecycle",
       "summary": "Our Virtual Machine Lifecycle policy guides how we manage these transitions, giving Azure customers transparency, predictability, and guidance. The post Enhancing Microsoft Azure Virtual Machine lifecycle appeared first on Microsoft Azure Blog .",
       "publishedAt": "Mon, 28 Sep 2026 15:00:00 +0000",
@@ -75,7 +75,7 @@
       "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-opus-5-5-comes-to-microsoft-foundry-for-long-running-coding-and-knowledge/4558051"
     },
     {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=53934",
+      "id": "https://azure.microsoft.com/en-us/blog/microsoft-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/",
       "title": "Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure",
       "summary": "Gartner highlighted Microsoft’s unified single-product architecture, flexibility across hyperconverged and disaggregated architectures, and more. The post Microsoft recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Distributed Hybrid Infrastructure appeared first on Microsoft Azure Blo",
       "publishedAt": "Wed, 16 Sep 2026 16:00:00 +0000",
