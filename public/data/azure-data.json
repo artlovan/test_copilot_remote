@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-14T21:03:58.324Z",
+  "fetchedAt": "2026-10-15T02:10:59.994Z",
   "statusFeed": [],
   "blogUpdates": [
     {
@@ -86,14 +86,17 @@
   "incidentHistory": [
     {
       "id": "7Q30-010",
-      "title": "Mitigated- Multiple services experiencing connectivity issues in multiple regions",
-      "description": "Incorrect Region: correction: Impacted region(s) within a previous communication has been corrected.",
+      "title": "Post Incident Review (PIR) – Network Connectivity – Gateway service degradation in multiple regions",
+      "description": "Join either of our upcoming 'Azure Incident Retrospective' livestreams discussing this incident (to hear from our engineering leaders, and to get any questions answered by our experts) or watch a recording of the livestream (available the following week, on YouTube):&nbsp;",
       "severity": "critical",
       "status": "resolved",
       "startedAt": "2026-09-30T00:00:00.000Z",
       "updatedAt": "2026-09-30T00:00:00.000Z",
-      "affectedServices": [],
-      "link": "https://azure.status.microsoft/en-us/status/history/#7Q30-010"
+      "affectedServices": [
+        "Network Connectivity",
+        "Gateway service degradation in multiple regions"
+      ],
+      "link": "https://aka.ms/air/7Q30-010/1"
     },
     {
       "id": "7QL5-Z50",
