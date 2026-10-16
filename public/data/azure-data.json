@@ -1,7 +1,31 @@
 {
-  "fetchedAt": "2026-10-16T02:01:30.461Z",
+  "fetchedAt": "2026-10-16T10:16:48.979Z",
   "statusFeed": [],
   "blogUpdates": [
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=54512",
+      "title": "Advancing hardware security with open-source Integrated HSM technology",
+      "summary": "Explore how Microsoft is advancing hardware security through open-source Integrated HSM technology, collaboration, and cryptographic key protection. The post Advancing hardware security with open-source Integrated HSM technology appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Tue, 13 Oct 2026 16:15:00 +0000",
+      "category": "Security",
+      "link": "https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=54448",
+      "title": "Infrastructure for the frontier era: Scaling intelligence through open industry collaboration",
+      "summary": "AI is reaching such a pivotal moment, and the focus is shifting from building larger frontier models to intelligence that delivers practical impact. The post Infrastructure for the frontier era: Scaling intelligence through open industry collaboration appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Tue, 13 Oct 2026 16:15:00 +0000",
+      "category": "AI + machine learning",
+      "link": "https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=54429",
+      "title": "Deep dive into Azure Maia 300 architecture",
+      "summary": "Maia 300 operates as a single platform to meet the demands of cloud-scale agentic inference. The post Deep dive into Azure Maia 300 architecture appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Mon, 12 Oct 2026 13:00:00 +0000",
+      "category": "AI + machine learning",
+      "link": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/"
+    },
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=54366",
       "title": "AI transformation across the infrastructure lifecycle: From supply chain to fleet operations",
@@ -57,30 +81,6 @@
       "publishedAt": "Thu, 24 Sep 2026 18:00:00 +0000",
       "category": "AI + machine learning",
       "link": "https://azure.microsoft.com/en-us/blog/ship-agents-faster-with-expanded-model-choice-voice-agents-and-continuous-optimization/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=53956",
-      "title": "Your architecture diagram is not your resilience",
-      "summary": "For years, resilience was something you set up once. That kept the lights on, but it treated resilience as a project with an end date rather than a property you maintain. The post Your architecture diagram is not your resilience appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Wed, 23 Sep 2026 16:00:00 +0000",
-      "category": "Analytics",
-      "link": "https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/",
-      "title": "Designing agent-first platforms: What changes when agents do the work",
-      "summary": "The organizations pulling ahead are not simply adding AI to what they already have. They are designing for a different kind of software. The post Designing agent-first platforms: What changes when agents do the work appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Wed, 23 Sep 2026 15:00:00 +0000",
-      "category": "AI + machine learning",
-      "link": "https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=54001",
-      "title": "GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry",
-      "summary": "Explore GPT-6 Astra, Sol, and GPT-6 Luna in Microsoft Foundry, with scalable model options for production AI agents, complex workflows, and high-volume tasks. The post GPT-6 Astra, Sol, and Luna: For production agents in Microsoft Foundry appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Tue, 22 Sep 2026 18:30:00 +0000",
-      "category": "AI + machine learning",
-      "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-sol-and-luna-for-production-agents-in-microsoft-foundry/"
     }
   ],
   "incidentHistory": [
