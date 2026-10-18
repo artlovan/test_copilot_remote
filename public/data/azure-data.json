@@ -1,7 +1,15 @@
 {
-  "fetchedAt": "2026-10-17T19:47:07.625Z",
+  "fetchedAt": "2026-10-18T01:55:07.141Z",
   "statusFeed": [],
   "blogUpdates": [
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=54554",
+      "title": "Evolving the cloud-native foundation for the next generation of AI",
+      "summary": "Discover how Azure is advancing cloud-native infrastructure to help organizations build, run, and optimize applications and agents at scale. The post Evolving the cloud-native foundation for the next generation of AI appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Thu, 15 Oct 2026 16:00:00 +0000",
+      "category": "Compute",
+      "link": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/"
+    },
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=54576",
       "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms",
@@ -73,14 +81,6 @@
       "publishedAt": "Tue, 29 Sep 2026 06:30:00 +0000",
       "category": "AI + machine learning",
       "link": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=54069",
-      "title": "Enhancing Microsoft Azure Virtual Machine lifecycle",
-      "summary": "Our Virtual Machine Lifecycle policy guides how we manage these transitions, giving Azure customers transparency, predictability, and guidance. The post Enhancing Microsoft Azure Virtual Machine lifecycle appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Mon, 28 Sep 2026 15:00:00 +0000",
-      "category": "Compute",
-      "link": "https://azure.microsoft.com/en-us/blog/enhancing-microsoft-azure-virtual-machine-lifecycle/"
     }
   ],
   "incidentHistory": [
