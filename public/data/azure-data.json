@@ -1,15 +1,7 @@
 {
-  "fetchedAt": "2026-10-19T21:48:41.028Z",
+  "fetchedAt": "2026-10-20T02:27:09.603Z",
   "statusFeed": [],
   "blogUpdates": [
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=54665",
-      "title": "Managing open-weight model risk in enterprise deployments",
-      "summary": "The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models. The post Managing open-weight model risk in enterprise deployments appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Fri, 16 Oct 2026 16:05:00 +0000",
-      "category": "AI + machine learning",
-      "link": "https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/"
-    },
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=54554",
       "title": "Evolving the cloud-native foundation for the next generation of AI",
@@ -81,6 +73,14 @@
       "publishedAt": "Tue, 29 Sep 2026 16:40:06 +0000",
       "category": "Compute",
       "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/",
+      "title": "FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents",
+      "summary": "Microsoft Fabric and SQL innovations announced at FabCon and SQLCon Barcelona 2026 help organizations build trusted data foundations for AI. The post FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Tue, 29 Sep 2026 06:30:00 +0000",
+      "category": "AI + machine learning",
+      "link": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/"
     }
   ],
   "incidentHistory": [
