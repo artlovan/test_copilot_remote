@@ -1,87 +1,152 @@
 {
-  "fetchedAt": "2026-10-20T20:58:11.271Z",
+  "fetchedAt": "2026-10-21T02:20:43.963Z",
   "statusFeed": [],
-  "blogUpdates": [
+  "blogUpdates": [],
+  "incidentHistory": [
     {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=54636",
-      "title": "Designing for sovereign AI: A shared foundation from edge to cloud",
-      "summary": "A flexible sovereign architecture allows organizations to place each workload in the right environment, apply the controls it requires, and maintain consistency. The post Designing for sovereign AI: A shared foundation from edge to cloud appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Mon, 19 Oct 2026 19:00:00 +0000",
-      "category": "Hybrid + multicloud",
-      "link": "https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/"
+      "id": "7Q30-010",
+      "title": "Post Incident Review (PIR) – Network Connectivity – Gateway service degradation in multiple regions",
+      "description": "Join either of our upcoming 'Azure Incident Retrospective' livestreams discussing this incident (to hear from our engineering leaders, and to get any questions answered by our experts) or watch a recording of the livestream (available the following week, on YouTube):&nbsp;",
+      "severity": "critical",
+      "status": "resolved",
+      "startedAt": "2026-09-30T00:00:00.000Z",
+      "updatedAt": "2026-09-30T00:00:00.000Z",
+      "affectedServices": [
+        "Network Connectivity",
+        "Gateway service degradation in multiple regions"
+      ],
+      "link": "https://aka.ms/air/7Q30-010/1"
     },
     {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=54665",
-      "title": "Managing open-weight model risk in enterprise deployments",
-      "summary": "The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models. The post Managing open-weight model risk in enterprise deployments appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Fri, 16 Oct 2026 16:05:00 +0000",
-      "category": "AI + machine learning",
-      "link": "https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/"
+      "id": "7QL5-Z50",
+      "title": "Post Incident Review (PIR) – Azure OpenAI Service, Foundry Agent Service, Foundry Models, and Azure AI services – Intermittent request failures and latency in Sweden Central",
+      "description": "Join either of our upcoming 'Azure Incident Retrospective' livestreams discussing this incident (to hear from our engineering leaders, and to get any questions answered by our experts) or watch a recording of the livestream (available the following week, on YouTube):",
+      "severity": "informational",
+      "status": "resolved",
+      "startedAt": "2026-09-29T00:00:00.000Z",
+      "updatedAt": "2026-09-29T00:00:00.000Z",
+      "affectedServices": [
+        "Azure OpenAI Service",
+        "Foundry Agent Service",
+        "Foundry Models",
+        "and Azure AI services",
+        "Intermittent request failures and latency in Sweden Central"
+      ],
+      "link": "https://aka.ms/air/7QL5-Z50/1"
     },
     {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=54554",
-      "title": "Evolving the cloud-native foundation for the next generation of AI",
-      "summary": "Discover how Azure is advancing cloud-native infrastructure to help organizations build, run, and optimize applications and agents at scale. The post Evolving the cloud-native foundation for the next generation of AI appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Thu, 15 Oct 2026 16:00:00 +0000",
-      "category": "Compute",
-      "link": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/"
+      "id": "ZJV6-SGG",
+      "title": "Post Incident Review (PIR) – Network connectivity – Issues accessing resources in West US",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident: https://aka.ms/air/ZJV6-SGG",
+      "severity": "informational",
+      "status": "resolved",
+      "startedAt": "2026-07-23T00:00:00.000Z",
+      "updatedAt": "2026-07-23T00:00:00.000Z",
+      "affectedServices": [
+        "Network connectivity",
+        "Issues accessing resources in West US"
+      ],
+      "link": "https://aka.ms/air/ZJV6-SGG"
     },
     {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=54576",
-      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms",
-      "summary": "We're building operational consistency through Azure and Azure Arc, and infrastructure consistency through Hyper-V. The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Wed, 14 Oct 2026 19:00:00 +0000",
-      "category": "Hybrid + multicloud",
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/"
+      "id": "LYXT-C1Z",
+      "title": "Post Incident Review (PIR) – Azure OpenAI Service – Latency and intermittent failures in multiple regions",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident: https://aka.ms/air/LYXT-C1Z",
+      "severity": "critical",
+      "status": "resolved",
+      "startedAt": "2026-05-29T00:00:00.000Z",
+      "updatedAt": "2026-05-29T00:00:00.000Z",
+      "affectedServices": [
+        "Azure OpenAI Service",
+        "Latency and intermittent failures in multiple regions"
+      ],
+      "link": "https://aka.ms/air/LYXT-C1Z"
     },
     {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=54512",
-      "title": "Advancing hardware security with open-source Integrated HSM technology",
-      "summary": "Explore how Microsoft is advancing hardware security through open-source Integrated HSM technology, collaboration, and cryptographic key protection. The post Advancing hardware security with open-source Integrated HSM technology appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Tue, 13 Oct 2026 16:15:00 +0000",
-      "category": "Security",
-      "link": "https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/"
+      "id": "GHRP-84G",
+      "title": "Post Incident Review (PIR) – Multiple services – Power/cooling issues in West US 2",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident: https://aka.ms/air/GHRP-84G",
+      "severity": "critical",
+      "status": "resolved",
+      "startedAt": "2026-05-29T00:00:00.000Z",
+      "updatedAt": "2026-05-29T00:00:00.000Z",
+      "affectedServices": [
+        "Multiple services",
+        "Power/cooling issues in West US 2"
+      ],
+      "link": "https://aka.ms/air/GHRP-84G"
     },
     {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=54448",
-      "title": "Infrastructure for the frontier era: Scaling intelligence through open industry collaboration",
-      "summary": "AI is reaching such a pivotal moment, and the focus is shifting from building larger frontier models to intelligence that delivers practical impact. The post Infrastructure for the frontier era: Scaling intelligence through open industry collaboration appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Tue, 13 Oct 2026 16:15:00 +0000",
-      "category": "AI + machine learning",
-      "link": "https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/"
+      "id": "5GP8-W0G",
+      "title": "Post Incident Review (PIR) – Multiple services – Control plane issues in East US",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident: https://aka.ms/air/5GP8-W0G",
+      "severity": "critical",
+      "status": "resolved",
+      "startedAt": "2026-04-24T00:00:00.000Z",
+      "updatedAt": "2026-04-24T00:00:00.000Z",
+      "affectedServices": [
+        "Multiple services",
+        "Control plane issues in East US"
+      ],
+      "link": "https://aka.ms/air/5GP8-W0G"
     },
     {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=54429",
-      "title": "Deep dive into Azure Maia 300 architecture",
-      "summary": "Maia 300 operates as a single platform to meet the demands of cloud-scale agentic inference. The post Deep dive into Azure Maia 300 architecture appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Mon, 12 Oct 2026 13:00:00 +0000",
-      "category": "AI + machine learning",
-      "link": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/"
+      "id": "8GCS-858",
+      "title": "Post Incident Review (PIR) – Azure OpenAI – GPT-5.2 availability degradation in 7 regions",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident:&nbsp; https://aka.ms/air/8GCS-858",
+      "severity": "warning",
+      "status": "resolved",
+      "startedAt": "2026-03-09T00:00:00.000Z",
+      "updatedAt": "2026-03-09T00:00:00.000Z",
+      "affectedServices": [
+        "Azure OpenAI",
+        "GPT-5.2 availability degradation in 7 regions"
+      ],
+      "link": "https://aka.ms/air/8GCS-858"
     },
     {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=54366",
-      "title": "AI transformation across the infrastructure lifecycle: From supply chain to fleet operations",
-      "summary": "The opportunity is bigger than making individual tasks faster. It’s to build a system that learns from how infrastructure is designed, sourced, and operated. The post AI transformation across the infrastructure lifecycle: From supply chain to fleet operations appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Wed, 07 Oct 2026 15:00:00 +0000",
-      "category": "Compute",
-      "link": "https://azure.microsoft.com/en-us/blog/ai-transformation-across-the-infrastructure-lifecycle-from-supply-chain-to-fleet-operations/"
+      "id": "_SVS-5_G",
+      "title": "Post Incident Review (PIR) – Power event impacting multiple services – West US",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident: https://aka.ms/air/_SVS-5_G",
+      "severity": "critical",
+      "status": "resolved",
+      "startedAt": "2026-02-07T00:00:00.000Z",
+      "updatedAt": "2026-02-07T00:00:00.000Z",
+      "affectedServices": [
+        "Power event impacting multiple services",
+        "West US"
+      ],
+      "link": "https://aka.ms/air/_SVS-5_G"
     },
     {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=54330",
-      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms",
-      "summary": "We’re proud to share that Microsoft has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms. The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Tue, 06 Oct 2026 21:00:00 +0000",
-      "category": "AI + machine learning",
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/"
+      "id": "FNJ8-VQZ",
+      "title": "Post Incident Review (PIR) – Virtual Machines, Managed identities for Azure resources, and dependent services – Service management issues in multiple regions",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident: https://aka.ms/air/FNJ8-VQZ",
+      "severity": "critical",
+      "status": "resolved",
+      "startedAt": "2026-02-02T00:00:00.000Z",
+      "updatedAt": "2026-02-02T00:00:00.000Z",
+      "affectedServices": [
+        "Virtual Machines",
+        "Managed identities for Azure resources",
+        "and dependent services",
+        "Service management issues in multiple regions"
+      ],
+      "link": "https://aka.ms/air/FNJ8-VQZ"
     },
     {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=54217",
-      "title": "Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware",
-      "summary": "Microsoft is advancing Azure cloud infrastructure with more efficient systems and Circular Centers that extend the useful life of datacenter hardware. The post Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Wed, 30 Sep 2026 15:00:00 +0000",
-      "category": "Compute",
-      "link": "https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/"
+      "id": "FV31-PQG",
+      "title": "Post Incident Review (PIR) – Entra Privileged Identity Management – Customers experiencing API failures",
+      "description": "Watch our 'Azure Incident Retrospective' video about this incident: https://aka.ms/air/FV31-PQG",
+      "severity": "informational",
+      "status": "resolved",
+      "startedAt": "2025-12-22T00:00:00.000Z",
+      "updatedAt": "2025-12-22T00:00:00.000Z",
+      "affectedServices": [
+        "Entra Privileged Identity Management",
+        "Customers experiencing API failures"
+      ],
+      "link": "https://aka.ms/air/FV31-PQG"
     }
-  ],
-  "incidentHistory": []
+  ]
 }
