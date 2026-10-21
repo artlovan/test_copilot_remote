@@ -1,15 +1,7 @@
 {
-  "fetchedAt": "2026-10-21T16:14:05.169Z",
+  "fetchedAt": "2026-10-21T20:58:43.644Z",
   "statusFeed": [],
   "blogUpdates": [
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=54703",
-      "title": "Advancing digital sovereignty with greater control and choice",
-      "summary": "Across conversations with leaders in government, critical infrastructure and regulated industries, one priority consistently rises to the top: putting technology to work on the most important systems while maintaining the control those systems require. The post Advancing digital sovereignty with gre",
-      "publishedAt": "Tue, 20 Oct 2026 17:34:47 +0000",
-      "category": "AI + machine learning",
-      "link": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/"
-    },
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=54636",
       "title": "Designing for sovereign AI: A shared foundation from edge to cloud",
@@ -59,7 +51,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/"
     },
     {
-      "id": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/",
+      "id": "https://azure.microsoft.com/en-us/blog/?p=54429",
       "title": "Deep dive into Azure Maia 300 architecture",
       "summary": "Maia 300 operates as a single platform to meet the demands of cloud-scale agentic inference. The post Deep dive into Azure Maia 300 architecture appeared first on Microsoft Azure Blog .",
       "publishedAt": "Mon, 12 Oct 2026 13:00:00 +0000",
@@ -81,6 +73,14 @@
       "publishedAt": "Tue, 06 Oct 2026 21:00:00 +0000",
       "category": "AI + machine learning",
       "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=54217",
+      "title": "Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware",
+      "summary": "Microsoft is advancing Azure cloud infrastructure with more efficient systems and Circular Centers that extend the useful life of datacenter hardware. The post Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Wed, 30 Sep 2026 15:00:00 +0000",
+      "category": "Compute",
+      "link": "https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/"
     }
   ],
   "incidentHistory": [
