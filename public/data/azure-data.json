@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-22T10:46:49.389Z",
+  "fetchedAt": "2026-10-22T16:12:44.375Z",
   "statusFeed": [],
   "blogUpdates": [
     {
@@ -27,7 +27,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/managing-open-weight-model-risk-in-enterprise-deployments/"
     },
     {
-      "id": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
+      "id": "https://azure.microsoft.com/en-us/blog/?p=54554",
       "title": "Evolving the cloud-native foundation for the next generation of AI",
       "summary": "Discover how Azure is advancing cloud-native infrastructure to help organizations build, run, and optimize applications and agents at scale. The post Evolving the cloud-native foundation for the next generation of AI appeared first on Microsoft Azure Blog .",
       "publishedAt": "Thu, 15 Oct 2026 16:00:00 +0000",
@@ -59,7 +59,7 @@
       "link": "https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/"
     },
     {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=54429",
+      "id": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/",
       "title": "Deep dive into Azure Maia 300 architecture",
       "summary": "Maia 300 operates as a single platform to meet the demands of cloud-scale agentic inference. The post Deep dive into Azure Maia 300 architecture appeared first on Microsoft Azure Blog .",
       "publishedAt": "Mon, 12 Oct 2026 13:00:00 +0000",
