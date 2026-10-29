@@ -1,7 +1,15 @@
 {
-  "fetchedAt": "2026-10-29T17:43:26.649Z",
+  "fetchedAt": "2026-10-29T22:09:12.262Z",
   "statusFeed": [],
   "blogUpdates": [
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=54760",
+      "title": "Introducing the Microsoft Copilot harness in Foundry Agent Service",
+      "summary": "Today, we’re introducing the Microsoft Copilot harness in Foundry Agent Service in public preview. The post Introducing the Microsoft Copilot harness in Foundry Agent Service appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Wed, 28 Oct 2026 17:40:56 +0000",
+      "category": "AI + machine learning",
+      "link": "https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/"
+    },
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=54706",
       "title": "Scale reservoir uncertainty analysis with agile reservoir modeling",
@@ -73,14 +81,6 @@
       "publishedAt": "Mon, 12 Oct 2026 13:00:00 +0000",
       "category": "AI + machine learning",
       "link": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=54366",
-      "title": "AI transformation across the infrastructure lifecycle: From supply chain to fleet operations",
-      "summary": "The opportunity is bigger than making individual tasks faster. It’s to build a system that learns from how infrastructure is designed, sourced, and operated. The post AI transformation across the infrastructure lifecycle: From supply chain to fleet operations appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Wed, 07 Oct 2026 15:00:00 +0000",
-      "category": "Compute",
-      "link": "https://azure.microsoft.com/en-us/blog/ai-transformation-across-the-infrastructure-lifecycle-from-supply-chain-to-fleet-operations/"
     }
   ],
   "incidentHistory": [
