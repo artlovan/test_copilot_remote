@@ -1,7 +1,15 @@
 {
-  "fetchedAt": "2026-10-30T03:18:59.891Z",
+  "fetchedAt": "2026-10-30T11:47:45.777Z",
   "statusFeed": [],
   "blogUpdates": [
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=54722",
+      "title": "Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance",
+      "summary": "Security, compliance, and operations teams can use this hardware-originated evidence for monitoring, compliance reporting, and forensic investigations. The post Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Thu, 29 Oct 2026 16:00:00 +0000",
+      "category": "DevOps",
+      "link": "https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/"
+    },
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=54760",
       "title": "Introducing the Microsoft Copilot harness in Foundry Agent Service",
@@ -73,14 +81,6 @@
       "publishedAt": "Tue, 13 Oct 2026 16:15:00 +0000",
       "category": "AI + machine learning",
       "link": "https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=54429",
-      "title": "Deep dive into Azure Maia 300 architecture",
-      "summary": "Maia 300 operates as a single platform to meet the demands of cloud-scale agentic inference. The post Deep dive into Azure Maia 300 architecture appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Mon, 12 Oct 2026 13:00:00 +0000",
-      "category": "AI + machine learning",
-      "link": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/"
     }
   ],
   "incidentHistory": [
