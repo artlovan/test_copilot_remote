@@ -1,7 +1,39 @@
 {
-  "fetchedAt": "2026-11-05T22:59:01.820Z",
+  "fetchedAt": "2026-11-06T03:58:59.631Z",
   "statusFeed": [],
   "blogUpdates": [
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=54831",
+      "title": "Stop treating agents as one-off projects and start running them as a continuous discipline",
+      "summary": "AI must be selected, architected, and managed as a continuous business discipline, not a series of isolated projects. The post Stop treating agents as one-off projects and start running them as a continuous discipline appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Thu, 05 Nov 2026 17:00:00 +0000",
+      "category": "AI + machine learning",
+      "link": "https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=54813",
+      "title": "Designing Azure silicon on Azure silicon: EDA workloads on Cobalt 200",
+      "summary": "Discover how Microsoft is accelerating electronic design automation (EDA) workloads with Azure Cobalt 200 VMs. Explore early performance results demonstrating faster simulation, verification, and static timing analysis, along with the benefits of scalable cloud infrastructure for silicon design and ",
+      "publishedAt": "Thu, 05 Nov 2026 16:00:00 +0000",
+      "category": "Compute",
+      "link": "https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=54784",
+      "title": "Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads",
+      "summary": "Azure Failure Prediction and Detection (AFPD) helps reduce interruptions by predicting hardware failures, moving eligible workloads, and notifying customers when action is needed. See what that means for SAP on Azure and other mission-critical workloads. The post Predicting and detecting failures: H",
+      "publishedAt": "Wed, 04 Nov 2026 16:00:00 +0000",
+      "category": "Compute",
+      "link": "https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=54846",
+      "title": "The Platform Behind the Next AI Breakthrough",
+      "summary": "The next frontier of AI is coming into focus as agents take on longer, more strategic work. The post The Platform Behind the Next AI Breakthrough appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Mon, 02 Nov 2026 20:52:22 +0000",
+      "category": "AI + machine learning",
+      "link": "https://www.wired.com/sponsored/story/the-platform-behind-the-next-ai-breakthrough/"
+    },
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=54722",
       "title": "Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance",
@@ -49,38 +81,6 @@
       "publishedAt": "Fri, 16 Oct 2026 16:05:00 +0000",
       "category": "AI + machine learning",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=54554",
-      "title": "Evolving the cloud-native foundation for the next generation of AI",
-      "summary": "Discover how Azure is advancing cloud-native infrastructure to help organizations build, run, and optimize applications and agents at scale. The post Evolving the cloud-native foundation for the next generation of AI appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Thu, 15 Oct 2026 16:00:00 +0000",
-      "category": "Compute",
-      "link": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=54576",
-      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms",
-      "summary": "We're building operational consistency through Azure and Azure Arc, and infrastructure consistency through Hyper-V. The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Wed, 14 Oct 2026 19:00:00 +0000",
-      "category": "Hybrid + multicloud",
-      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=54512",
-      "title": "Advancing hardware security with open-source Integrated HSM technology",
-      "summary": "Explore how Microsoft is advancing hardware security through open-source Integrated HSM technology, collaboration, and cryptographic key protection. The post Advancing hardware security with open-source Integrated HSM technology appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Tue, 13 Oct 2026 16:15:00 +0000",
-      "category": "Security",
-      "link": "https://azure.microsoft.com/en-us/blog/advancing-hardware-security-with-open-source-integrated-hsm-technology/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=54448",
-      "title": "Infrastructure for the frontier era: Scaling intelligence through open industry collaboration",
-      "summary": "AI is reaching such a pivotal moment, and the focus is shifting from building larger frontier models to intelligence that delivers practical impact. The post Infrastructure for the frontier era: Scaling intelligence through open industry collaboration appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Tue, 13 Oct 2026 16:15:00 +0000",
-      "category": "AI + machine learning",
-      "link": "https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/"
     }
   ],
   "incidentHistory": [
