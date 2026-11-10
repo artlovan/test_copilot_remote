@@ -1,31 +1,7 @@
 {
-  "fetchedAt": "2026-11-09T14:35:09.957Z",
+  "fetchedAt": "2026-11-10T00:56:45.331Z",
   "statusFeed": [],
   "blogUpdates": [
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=54939",
-      "title": "Building the next generation of multimodal AI experiences with fal in Microsoft Foundry",
-      "summary": "Microsoft and fal partner to expand video generation in Microsoft Foundry, helping developers bring creative ideas into enterprise applications. The post Building the next generation of multimodal AI experiences with fal in Microsoft Foundry appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Fri, 06 Nov 2026 19:08:44 +0000",
-      "category": "AI + machine learning",
-      "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=54831",
-      "title": "Stop treating agents as one-off projects and start running them as a continuous discipline",
-      "summary": "AI must be selected, architected, and managed as a continuous business discipline, not a series of isolated projects. The post Stop treating agents as one-off projects and start running them as a continuous discipline appeared first on Microsoft Azure Blog .",
-      "publishedAt": "Thu, 05 Nov 2026 17:00:00 +0000",
-      "category": "AI + machine learning",
-      "link": "https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/"
-    },
-    {
-      "id": "https://azure.microsoft.com/en-us/blog/?p=54813",
-      "title": "Designing Azure silicon on Azure silicon: EDA workloads on Cobalt 200",
-      "summary": "Discover how Microsoft is accelerating electronic design automation (EDA) workloads with Azure Cobalt 200 VMs. Explore early performance results demonstrating faster simulation, verification, and static timing analysis, along with the benefits of scalable cloud infrastructure for silicon design and ",
-      "publishedAt": "Thu, 05 Nov 2026 16:00:00 +0000",
-      "category": "Compute",
-      "link": "https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/"
-    },
     {
       "id": "https://azure.microsoft.com/en-us/blog/?p=54784",
       "title": "Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads",
@@ -81,6 +57,30 @@
       "publishedAt": "Mon, 19 Oct 2026 19:00:00 +0000",
       "category": "Hybrid + multicloud",
       "link": "https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=54665",
+      "title": "Managing open-weight model risk in enterprise deployments",
+      "summary": "The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models. The post Managing open-weight model risk in enterprise deployments appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Fri, 16 Oct 2026 16:05:00 +0000",
+      "category": "AI + machine learning",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=54554",
+      "title": "Evolving the cloud-native foundation for the next generation of AI",
+      "summary": "Discover how Azure is advancing cloud-native infrastructure to help organizations build, run, and optimize applications and agents at scale. The post Evolving the cloud-native foundation for the next generation of AI appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Thu, 15 Oct 2026 16:00:00 +0000",
+      "category": "Compute",
+      "link": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/"
+    },
+    {
+      "id": "https://azure.microsoft.com/en-us/blog/?p=54576",
+      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms",
+      "summary": "We're building operational consistency through Azure and Azure Arc, and infrastructure consistency through Hyper-V. The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Server Virtualization Platforms appeared first on Microsoft Azure Blog .",
+      "publishedAt": "Wed, 14 Oct 2026 19:00:00 +0000",
+      "category": "Hybrid + multicloud",
+      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-server-virtualization-platforms/"
     }
   ],
   "incidentHistory": [
